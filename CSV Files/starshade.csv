@@ -1,0 +1,519 @@
+id,source_id,source_cutoff,question_text,trigger_span,answer_text,answer_span,answer_score,snippet_has_arg1_of,trigger_has_arg1_of,answer_has_arg2_of
+starshade.S78.Q1,starshade,4239,Why do you call it a flower pedal sharshade?,"[4215, 4237]",If they make the pedals right it gives them a shadow.,"[4350.0, 4376.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+starshade.S85.Q1,starshade,4378,How do you make the edges of the petal exactly right?,"[4254, 4289]",,,1.0,['EntRel:nan'],[],[]
+starshade.S87.Q1,starshade,4534,Why does it have to be bigger than a thumb?,"[4512, 4532]",If it holds right in the shadows you can see the planets.,"[4693.0, 4726.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+starshade.S89.Q1,starshade,4728,Why is it the size of half a football field?,"[4570, 4591]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S93.Q1,starshade,5004,Why do the petals unfurl?,"[4943, 4960]",,,1.0,['Explicit:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S99.Q1,starshade,5172,Why does it flip?,"[5016, 5027]",,,1.0,['AltLex:Contingency.Cause.Result'],[],[]
+starshade.S93.Q2,starshade,5004,Where does the telescope turn?,"[4980, 5002]",Telescope goes 50k kilometers away,"[5045.0, 5086.0]",3.0,['Explicit:Temporal.Asynchronous.Precedence'],['Explicit:Temporal.Asynchronous.Precedence'],['Explicit:Temporal.Asynchronous.Precedence']
+starshade.S99.Q2,starshade,5172,What do you do with the shadow?,"[5144, 5170]",,,1.0,['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result'],[]
+starshade.S91.Q1,starshade,4910,Why does it start wrapped around a hub?,"[4878, 4908]",It unfurls and the telescope turns around.,"[4976.0, 5002.0]",3.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence']
+starshade.S48.Q1,starshade,2742,What inspiration did he take,"[2709, 2724]",it is a solar eclipse,"[2863.0, 2899.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['Implicit:Expansion.Conjunction', 'Explicit:Contingency.Cause.Result']"
+starshade.S97.Q1,starshade,5212,Is it the sun?,"[5172, 5201]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S102.Q1,starshade,5262,What makes it not science fiction?,"[5234, 5260]",It was tested out last summer. ,"[5321.0, 5363.0]",3.0,['EntRel:nan'],['EntRel:nan'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+starshade.S104.Q1,starshade,5399,What exactly did you test?,"[5326, 5359]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S106.Q1,starshade,5457,How big would a full scale shade be?,"[5425, 5455]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S108.Q1,starshade,5537,What do the petals look like?,"[5507, 5535]",,,2.0,"['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']","['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']",[]
+starshade.S112.Q1,starshade,5652,How long did it take them to build the petals?,"[5537, 5588]",,,1.0,['EntRel:nan'],[],[]
+starshade.S116.Q1,starshade,5791,Do they rotate clockwise or counterclockwise? ,"[5652, 5690]",,,1.0,['EntRel:nan'],[],[]
+starshade.S44.Q1,starshade,2544,What are they working on?,"[2414, 2435]",that someone took inspiration from an eclipse,"[2713.0, 2740.0]",3.0,['Explicit:Expansion.Conjunction'],[],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S43.Q1,starshade,2398,How far away can a planet be seen?,"[2304, 2321]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S45.Q1,starshade,2612,What is that method to detect an Earth-like planet?,"[2561, 2591]",Shielding the bright star like an eclipse does with the sun is that method.,"[2713.0, 2740.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S67.Q1,starshade,3524,What would we build the screen from?,"[3328, 3346]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S52.Q1,starshade,2788,Is a solar eclipse bright?,"[2764, 2786]",that the mon has moved to block out the light,"[2828.0, 2859.0]",3.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],['Implicit:Expansion.Conjunction']
+starshade.S40.Q1,starshade,2203,how far is the light?,"[2167, 2186]",very bright images wash out the planet,"[2255.0, 2292.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S42.Q1,starshade,2372,How do we fix the bright light?,"[2337, 2370]",they are working on something cool,"[2425.0, 2463.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Conjunction']
+starshade.S1.Q1,starshade,142,How many planets are there?,"[108, 140]",There are as many planets as there are stars.,"[477.0, 514.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['NoRel:nan']
+starshade.S5.Q1,starshade,448,How much progress has been made on the technology?,"[371, 392]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S7.Q1,starshade,658,Are any of these Earth-like planets close to Earth?,"[546, 589]",,,2.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],[],[]
+starshade.S9.Q1,starshade,747,Are there plans to directly identify them?,"[664, 693]",,,2.0,['EntRel:nan'],[],[]
+starshade.S11.Q1,starshade,986,Where did Voyager go after leaving our solar system?,"[832, 856]",,,1.0,['Implicit:Comparison.Concession.Arg2-as-denier'],[],[]
+starshade.S13.Q1,starshade,1030,Have we attempted it before?,"[986, 1011]",,,2.0,['Implicit:Contingency.Cause.Reason'],[],[]
+starshade.S19.Q1,starshade,1226,Where is the Hubble Space Telescope currently?,"[1121, 1153]",,,1.0,['Explicit:Contingency.Cause.Reason'],[],[]
+starshade.S33.Q1,starshade,2070,Are the stars bright?,"[1993, 2018]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S38.Q1,starshade,2141,When will we see the red circle?,"[2094, 2111]",that the light is defracting from the star,"[2163.0, 2201.0]",3.0,"['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']",['Explicit:Contingency.Cause.Reason'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail']"
+starshade.S51.Q1,starshade,2764,What space telescope did Lyman Spitzer inspire?,"[2638, 2686]",,,1.0,['EntRel:nan'],[],[]
+starshade.S33.Q2,starshade,2070,Who is present in this passage?,"[1689, 1700]",,,1.0,['EntRel:nan'],[],[]
+starshade.S38.Q2,starshade,2141,Why do we want to see it?,"[2113, 2139]",,,1.0,"['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']","['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']",[]
+starshade.S40.Q2,starshade,2203,Will we see the planet?,"[2152, 2161]","Maybe, if we do something about the light.","[2323.0, 2370.0]",3.0,['Implicit:Expansion.Conjunction'],[],['Explicit:Contingency.Cause.Result']
+starshade.S42.Q2,starshade,2372,How do we get rid of the light?,"[2323, 2370]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S44.Q2,starshade,2544,What technology is the coolest?,"[2535, 2542]",,,2.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+starshade.S48.Q2,starshade,2742,How did the eclipse inspire Spitzer?,"[2701, 2740]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S52.Q2,starshade,2788,How does the eclipse help?,"[2764, 2786]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+starshade.S30.Q1,starshade,1965,How far away are we now?,"[1889, 1912]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S37.Q1,starshade,2113,Is the planet visible at all anymore?,"[2026, 2068]","It could be visible, but is very difficult to see.","[2141.0, 2161.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S39.Q1,starshade,2163,What are some ways to see a dim planet like that?,"[2120, 2139]",Overcoming the brightness of the star is the way to see the planet.,"[2334.0, 2370.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],['Explicit:Contingency.Cause.Result']
+starshade.S41.Q1,starshade,2301,Can other methods be used to detect the planet?,"[2278, 2299]",Light from the star needs to be blocked out to see the planet.,"[2375.0, 2396.0]",3.0,['Explicit:Contingency.Cause.Result'],['Explicit:Contingency.Cause.Result'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+starshade.S85.Q2,starshade,4378,what does the shadow look like?,"[4350, 4376]",10 billion times dimmer,"[4389.0, 4431.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S125.Q1,starshade,6617,"Why is it so impressive to see planets through a space telescope - this has been done an endless amount of times before, but what is new about this situation?","[6588, 6601]",These individuals are attempting to determine if other plants are able to sustain life - which explains their project. ,"[6719.0, 6730.0]",4.0,['EntRel:nan'],[],['EntRel:nan']
+starshade.S93.Q3,starshade,5004,why does the telescope turn around?,"[4980, 5002]",,,1.0,['Explicit:Temporal.Asynchronous.Precedence'],['Explicit:Temporal.Asynchronous.Precedence'],[]
+starshade.S99.Q3,starshade,5172,how does it know where to go?,"[5102, 5127]",,,1.0,['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result'],[]
+starshade.S78.Q2,starshade,4239,why does softening the edges work?,"[4003, 4021]","control their shape, we can control diffraction, and now we have a great shadow","[4364.0, 4376.0]",4.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+starshade.S62.Q1,starshade,3524,Which planets will you see?,"[3501, 3522]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S69.Q1,starshade,3618,Why aren't there any planets?,"[3598, 3616]",There aren't any planets visible because the screen idea doesn't work very well. ,"[3626.0, 3664.0]",5.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S71.Q1,starshade,3790,Can you see planets through the telescope?,"[3756, 3788]",We can't see planets.,"[3914.0, 3934.0]",5.0,['AltLex:Comparison.Similarity'],['AltLex:Comparison.Similarity'],"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+starshade.S73.Q1,starshade,3910,How can you preserve the shadow?,"[3854, 3884]",You can feather or soften the edges to control diffraction.,"[4134.0, 4166.0]",5.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],['Explicit:Expansion.Conjunction']
+starshade.S87.Q2,starshade,4534,why is the planet more visible?,"[4452, 4468]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+starshade.S89.Q2,starshade,4728,Why does it have to be so far away?,"[4599, 4632]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S91.Q2,starshade,4910,what happens after the hub?,"[4881, 4908]",separates from the telescope,"[4913.0, 4941.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence']
+starshade.S75.Q1,starshade,3974,What was Spitzer's answer?,"[3940, 3972]",If you soften the edges you can see the planets because you are controlling diffraction.,"[4058.0, 4082.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S77.Q1,starshade,4168,Are there any other solutions?,"[4134, 4151]",You can make the edges of the petals exactly right to control diffraction.,"[4245.0, 4289.0]",5.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan']"
+starshade.S83.Q1,starshade,4239,Who else calls it the flower petal starshade?,"[4198, 4237]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S119.Q1,starshade,6049,What is the purpose of these various tests on the 'petals?',"[5952, 5983]",They a designing a system to take a new 'portrait of the solar system in a way which I have yet to fully understand.,"[6301.0, 6336.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S121.Q1,starshade,6248,Are these people designing another version of a space telescope? ,"[6139, 6179]",,,2.0,[],[],[]
+starshade.S123.Q1,starshade,6464,What on earth is an occulter - and what is the purpose of taking this 'family portrait of the solar system?,"[6423, 6431]",I believe this device is related to the ability to track the elements needed to sustain life on other planets. ,"[6638.0, 6673.0]",3.0,['NoRel:nan'],['NoRel:nan'],['EntRel:nan']
+starshade.S127.Q1,starshade,6778,How reliable is this technology that determines of these various plants have the properties needed to sustain life? ,"[6686, 6704]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S73.Q2,starshade,3910,Is there some way to do this that won't destroy the shadow?,"[3854, 3884]",control diffraction by softening the edges then we can see the planets,"[4003.0, 4051.0]",5.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Explicit:Contingency.Cause.Result']"
+starshade.S75.Q2,starshade,3974,What can be done so we can see the planets?,"[3914, 3934]",control diffraction by softening the edges,"[4003.0, 4051.0]",5.0,['EntRel:nan'],[],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Explicit:Contingency.Cause.Result']"
+starshade.S77.Q2,starshade,4168,What kinds of solutions were discovered to accomplish this?,"[4115, 4151]",The flower petal starshade is one solution.,"[4215.0, 4237.0]",5.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['EntRel:nan']
+starshade.S83.Q2,starshade,4239,How does the flower petal starshade work?,"[4211, 4237]",control the shape of the starshade which allows researchers to control diffraction,"[4297.0, 4344.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan', 'Implicit:Expansion.Conjunction']"
+starshade.S110.Q1,starshade,5692,What are these 'petals that are being discussed? ,"[5522, 5528]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+starshade.S117.Q1,starshade,5893,What type of equipment are these individuals testing?,"[5791, 5807]",I assume they are building a rocket or some type of vehicle for launch into space. ,"[5985.0, 6012.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Contingency.Condition.Arg2-as-cond', 'Implicit:Expansion.Conjunction']"
+starshade.S97.Q2,starshade,5212,Which planets will we see?,"[5178, 5201]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S102.Q2,starshade,5262,What is it called?,"[5234, 5260]",Part of it is petals and a sub-scale star shade.,"[5412.0, 5455.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'EntRel:nan']"
+starshade.S104.Q2,starshade,5399,Was the test a success?,"[5334, 5359]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S120.Q1,starshade,6139,What stars will the object take pictures of?,"[6073, 6137]",Picture of the solar system,"[6292.0, 6336.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S122.Q1,starshade,6354,How much larger does the telescope need to be?,"[6156, 6196]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+starshade.S71.Q2,starshade,3790,Is there another way to do this that doesn't diffract the light waves?,"[3717, 3751]",,,2.0,['AltLex:Comparison.Similarity'],['AltLex:Comparison.Similarity'],[]
+starshade.S113.Q1,starshade,5791,What is JPL?,"[5615, 5621]",,,1.0,['EntRel:nan'],[],[]
+starshade.S118.Q1,starshade,6014,Why do they want the object to go into space?,"[5985, 6013]",To take pictures in space,"[6049.0, 6065.0]",3.0,[],[],['EntRel:nan']
+starshade.S124.Q1,starshade,6603,What is the pale blue dot?,"[6565, 6602]",Earth,"[6603.0, 6615.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S126.Q1,starshade,6732,How far away can the telescope see?,"[6679, 6731]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S128.Q1,starshade,6812,Why is this the coolest science?,"[6732, 6776]",Because it will change the world,"[6812.0, 6854.0]",5.0,['Explicit:Contingency.Cause.Reason'],[],"['Implicit:Expansion.Conjunction', 'Explicit:Contingency.Cause.Reason']"
+starshade.S124.Q2,starshade,6603,What is that pale blue dot?,"[6588, 6601]",The pale blue dot is Earth.,"[6603.0, 6615.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S69.Q2,starshade,3618,How else could someone see the planets?,"[3598, 3616]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+starshade.S62.Q2,starshade,3524,Was Spitzer's suggestion doable?,"[3279, 3299]",It didn't work.,"[3640.0, 3674.0]",4.0,['Implicit:Expansion.Conjunction'],[],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S106.Q2,starshade,5457,What does the star shade do?,"[5425, 5455]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S108.Q2,starshade,5537,How are the petals operated? ,"[5507, 5535]",They rotate into place.,"[5673.0, 5690.0]",4.0,"['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']","['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']",['EntRel:nan']
+starshade.S112.Q2,starshade,5652,What does JPL stand for?,"[5597, 5621]",,,1.0,['EntRel:nan'],[],[]
+starshade.S116.Q2,starshade,5791,What happens if they miss their place?,"[5717, 5755]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S29.Q1,starshade,1846,Will the sun affect what you can see in space?,"[1776, 1811]","yes, it's very bright like the other stars","[1989.0, 2006.0]",3.0,['NoRel:nan'],['NoRel:nan'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S35.Q1,starshade,1965,Is the planet too far away to see at this point?,"[1945, 1963]",It's hard to see due to the brightness of nearby stars,"[2014.0, 2068.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S126.Q2,starshade,6732,How far will this telescope see?,"[6638, 6673]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S128.Q2,starshade,6812,What if the telescope does find life?,"[6752, 6776]",Everything will change.,"[6856.0, 6883.0]",4.0,['Explicit:Contingency.Cause.Reason'],[],['EntRel:nan']
+starshade.S113.Q2,starshade,5791,What do teh petals do?,"[5543, 5588]",It might be able to take images of Earth's neighboring stars.,"[6073.0, 6099.0]",3.0,['EntRel:nan'],[],['EntRel:nan']
+starshade.S118.Q2,starshade,6014,What technology are you trying to get into space?,"[5962, 5983]",We could get images of neighboring stars.,"[6014.0, 6047.0]",4.0,[],[],"['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier']"
+starshade.S120.Q2,starshade,6139,Will this technology allow us to take pictures of planets and stars?,"[6058, 6065]","Yes, it will allow us to get images of our solar system.","[6149.0, 6179.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan']"
+starshade.S122.Q2,starshade,6354,What else might we see with this technology?,"[6253, 6288]",We might be able to see a different solar system from our own.,"[6376.0, 6403.0]",4.0,['Implicit:Contingency.Cause.Reason'],[],['Implicit:Contingency.Cause.Reason']
+starshade.S64.Q1,starshade,3435,what can you use to travel to space with a big screen?,"[3328, 3366]",all this failed ,"[3643.0, 3675.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],[],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S68.Q1,starshade,3566,we are going to use a space ship or a rocket,"[3435, 3459]",,,1.0,['EntRel:nan'],[],[]
+starshade.S49.Q1,starshade,2788,how is that possible?,"[2576, 2610]",the moon moved toward the sun to get that corona ,"[2792.0, 2826.0]",5.0,['Implicit:Contingency.Cause.Reason'],[],['Implicit:Contingency.Cause.Reason']
+starshade.S54.Q1,starshade,2901,is the moon going to crush the sun,"[2788, 2826]",that will never happen,"[2917.0, 2945.0]",5.0,['AltLex:Expansion.Equivalence'],[],['AltLex:Expansion.Equivalence']
+starshade.S56.Q1,starshade,3039,is there a different if you turn around and look,"[3008, 3037]",that makes a difference ,"[3039.0, 3061.0]",5.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+starshade.S58.Q1,starshade,3115,what happens to the sun when the moon blocks its light from reaching where it was supposed ,"[3067, 3113]",we use use a camera telescope to see that,"[3124.0, 3160.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['AltLex:Hypophora', 'EntRel:nan']"
+starshade.S60.Q1,starshade,3279,how does the moon being in front of the sun affect the sun ,"[3165, 3185]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S1.Q2,starshade,142,How many planets are there?,"[120, 140]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S83.Q3,starshade,4239,What is the flower petal starshade like?,"[4215, 4237]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S2.Q1,starshade,296,What is the instrument that can be able to image on earth?,"[190, 233]",Space telescope can be used ?,"[477.0, 514.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['NoRel:nan']
+starshade.S6.Q1,starshade,625,Does every star in the galaxy has planet ?,"[550, 589]",Yes they have ,"[658.0, 693.0]",5.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Expansion.Substitution.Arg2-as-subst']
+starshade.S5.Q2,starshade,448,How long will this take?,"[427, 446]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S7.Q2,starshade,658,How did astronomers come to the conclusion that up to 1/5 of stars have an Earth-like planet?,"[540, 589]",,,1.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],[],[]
+starshade.S14.Q1,starshade,1226,Why can't they see as far as the want ot with the telescope?,"[1186, 1224]",The telescope is too small and out of orbit,"[1240.0, 1281.0]",3.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Contingency.Cause.Reason']"
+starshade.S11.Q2,starshade,986,Where is Voyager now?,"[767, 793]",,,1.0,['Implicit:Comparison.Concession.Arg2-as-denier'],[],[]
+starshade.S13.Q2,starshade,1030,What are the issues around what the author wants done?,"[1012, 1029]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+starshade.S19.Q2,starshade,1226,How can we improve our imaging?,"[1188, 1224]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+starshade.S75.Q3,starshade,3974,What is the answer?,"[3940, 3972]",The answer is to feather and soften the edges.,"[3984.0, 4021.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail']"
+starshade.S9.Q2,starshade,747,How have we detected these planets indirectly?,"[658, 693]",,,2.0,['EntRel:nan'],[],[]
+starshade.S62.Q3,starshade,3524,Why do they want to see the planets?,"[3501, 3522]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S69.Q3,starshade,3618,Why aren't there planets yet?,"[3598, 3616]",The plan didn't work well.,"[3626.0, 3674.0]",5.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S71.Q3,starshade,3790,Is there going to be a new plan?,"[3723, 3764]",,,1.0,['AltLex:Comparison.Similarity'],['AltLex:Comparison.Similarity'],[]
+starshade.S73.Q3,starshade,3910,Why is the shadow so terrible?,"[3886, 3908]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[]
+starshade.S77.Q3,starshade,4168,What are those solutions?,"[4134, 4166]",The flower petal starshade is at least one solution.,"[4215.0, 4237.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['EntRel:nan']
+starshade.S7.Q3,starshade,658,will we be able to see the earth-like planets anytime soon?,"[629, 656]",only can see them indirectly,"[658.0, 694.0]",3.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst']
+starshade.S21.Q1,starshade,1330,How blurry will earth look after the telescope was adjusted?,"[1291, 1328]",It looks smaller,"[1366.0, 1421.0]",4.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'EntRel:nan']"
+starshade.S23.Q1,starshade,1423,Can you see uranus with telescope?,"[1349, 1364]",They can see moons around uranus orbit,"[1426.0, 1455.0]",3.0,['Implicit:Comparison.Concession.Arg2-as-denier'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Comparison.Concession.Arg2-as-denier']"
+starshade.S25.Q1,starshade,1569,Can you see the edge of the solar system with a telescope?,"[1515, 1543]","No, it's dot like at this distance","[1599.0, 1638.0]",4.0,['AltLex:Temporal.Synchronous'],['AltLex:Temporal.Synchronous'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Equivalence']"
+starshade.S27.Q1,starshade,1640,Can the telescope be adjusted at this distance?,"[1582, 1597]","Yes, you can move further away or up closer.","[1640.0, 1687.0]",3.0,['Explicit:Expansion.Conjunction'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+starshade.S116.Q3,starshade,5791,What happens if they get misplaced?,"[5759, 5789]",Failure won't happen,"[5822.0, 5864.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S9.Q3,starshade,747,Will NASA have the budget to keep looking for more blue dots?,"[703, 745]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S11.Q3,starshade,986,How close is the nearest earth-like planet?,"[882, 920]",,,1.0,['Implicit:Comparison.Concession.Arg2-as-denier'],[],[]
+starshade.S13.Q3,starshade,1030,Why haven't we seen more earth-like planets?,"[986, 1011]",we haven't moved the Hubble Space Telescope so we can see more,"[1060.0, 1113.0]",4.0,['Implicit:Contingency.Cause.Reason'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'AltLex:Contingency.Condition.Arg2-as-cond', 'Explicit:Expansion.Conjunction', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S19.Q3,starshade,1226,Is NASA going to move the Hubble to orbit Mars?,"[1118, 1153]",there is a small telescope orbiting Mars,"[1255.0, 1289.0]",3.0,['Explicit:Contingency.Cause.Reason'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Contingency.Cause.Reason']"
+starshade.S1.Q3,starshade,142,what else is the universe teaming with?,"[108, 132]",what else do astronomers think is out there?,"[472.0, 514.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['NoRel:nan']
+starshade.S5.Q3,starshade,448,What is the technology going to entail?,"[382, 392]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S113.Q3,starshade,5791,What are the petals' purpose?,"[5543, 5565]",,,2.0,['EntRel:nan'],[],[]
+starshade.S118.Q3,starshade,6014,What are they sending to space?,"[5985, 6012]",Something to do with taking pictures in space,"[6058.0, 6099.0]",3.0,[],[],['EntRel:nan']
+starshade.S120.Q3,starshade,6139,Are we doing something with the Hubble?,"[6115, 6137]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S122.Q3,starshade,6354,What's an occulter?,"[6216, 6231]",Some sort of shade for telescopes,"[6433.0, 6462.0]",3.0,['Implicit:Contingency.Cause.Reason'],[],['Implicit:Contingency.Cause.Reason']
+starshade.S124.Q3,starshade,6603,What's the blue dot?,"[6588, 6601]",It's Earth,"[6610.0, 6615.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S102.Q3,starshade,5262,Has this been published?,"[5241, 5260]",What will you do now?,"[5297.0, 5320.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S104.Q3,starshade,5399,What will you do next?,"[5297, 5319]",,,1.0,['NoRel:nan'],[],[]
+starshade.S106.Q3,starshade,5457,Are there others?,"[5412, 5423]",,,1.0,['EntRel:nan'],[],[]
+starshade.S108.Q3,starshade,5537,Are there others?,"[5489, 5505]",,,1.0,"['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']",[],[]
+starshade.S112.Q3,starshade,5652,Are there other petals?,"[5560, 5614]",,,1.0,['EntRel:nan'],[],[]
+starshade.S12.Q1,starshade,1012,Can a earth -like planet be taken for another star?,"[948, 984]",Yes it can ,"[1114.0, 1153.0]",3.0,['Implicit:Expansion.Conjunction'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'AltLex:Contingency.Condition.Arg2-as-cond', 'Explicit:Expansion.Conjunction', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S16.Q1,starshade,1155,Hubble space telescope can be used for what ?,"[1069, 1113]",It can be turned around and move around the orbit of Mars ,"[1186.0, 1224.0]",5.0,[],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason']"
+starshade.S97.Q3,starshade,5212,Is this for an exhibition?,"[5144, 5151]",,,1.0,['NoRel:nan'],[],[]
+starshade.S20.Q1,starshade,1291,Why is a slightly blurry picture of the earth ?,"[1242, 1254]",It is because we are a fairly small telescope out at the orbit of Mars,"[1342.0, 1364.0]",4.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S8.Q1,starshade,695,Did all the Earth-like planet has speculate ?,"[658, 693]",About one fifth of them have an Earth-like planet ,"[775.0, 793.0]",5.0,['NoRel:nan'],['NoRel:nan'],['EntRel:nan']
+starshade.S10.Q1,starshade,922,When was Voyager spacecraft taken ?,"[786, 793]",It was taken in 1990,"[948.0, 984.0]",5.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity']
+starshade.S128.Q3,starshade,6812,What's the science field?,"[6748, 6776]",,,2.0,['Explicit:Contingency.Cause.Reason'],[],[]
+starshade.S78.Q3,starshade,4239,What optimal solutions are there,"[4115, 4151]",,,1.0,['EntRel:nan'],[],[]
+starshade.S85.Q3,starshade,4378,What is the shadow for?,"[4357, 4376]",make planets easier to see,"[4437.0, 4459.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S87.Q3,starshade,4534,why does it have to be bigger than a thumb?,"[4502, 4532]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S89.Q3,starshade,4728,How expensive is the telescope?,"[4642, 4651]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S91.Q3,starshade,4910,what is JPL?,"[4796, 4802]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S93.Q4,starshade,5004,What separates from the telescope,"[4910, 4922]",,,1.0,['Explicit:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S126.Q3,starshade,6732,How good are the chances of finding an Earth-like planet?,"[6642, 6673]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S99.Q4,starshade,5172,How long does this take?,"[5088, 5127]",,,1.0,['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result'],[]
+starshade.S88.Q1,starshade,4693,How do you make the starshade fly?,"[4596, 4651]",good design,"[4804.0, 4834.0]",3.0,"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']","['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']","['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier']"
+starshade.S90.Q1,starshade,4878,It looks like what?,"[4858, 4876]",wrapped and separated later,"[4888.0, 4941.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S92.Q1,starshade,4943,What happens after separation?,"[4910, 4941]",petals unfurl and open,"[4943.0, 4974.0]",4.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],"['Implicit:Temporal.Asynchronous.Precedence', 'Implicit:Expansion.Equivalence']"
+starshade.S5.Q4,starshade,448,How will this technology work?,"[382, 426]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S7.Q4,starshade,658,Why aren't we able to detect them?,"[625, 656]","We can detect them, but indirectly.","[658.0, 693.0]",3.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst']
+starshade.S9.Q4,starshade,747,What is the pale blue dot?,"[695, 745]",The pale blue dot is how the Earth looks from the furthest bounds of the solar system.,"[865.0, 920.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Temporal.Synchronous', 'Explicit:Temporal.Synchronous']"
+starshade.S11.Q4,starshade,986,How will that be possible?,"[945, 984]",,,2.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],[]
+starshade.S13.Q4,starshade,1030,"Yes, what exactly are the challenges in accomplishing such a feat?","[1012, 1029]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+starshade.S81.Q1,starshade,4346,How do you control petals?,"[4242, 4289]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[]
+starshade.S86.Q1,starshade,4485,Which planets can you see?,"[4437, 4459]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S57.Q1,starshade,3062,What happened next?,"[3045, 3061]","After telescope in the shadow, the light's has been removed","[3191.0, 3223.0]",5.0,[],[],"['AltLex:Hypophora', 'EntRel:nan', 'Explicit:Contingency.Condition.Arg1-as-cond']"
+starshade.S59.Q1,starshade,3249,How dim?,"[3228, 3247]",Fine structure implied how dim,"[3249.0, 3277.0]",3.0,[],[],"['AltLex:Hypophora', 'EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+starshade.S61.Q1,starshade,3325,How can we do this in space?,"[3289, 3323]",block the light and we get to see planets ,"[3403.0, 3433.0]",5.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S67.Q2,starshade,3524,How far we can see the planets?,"[3501, 3522]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S1.Q4,starshade,142,What is the likelihood one holds advanced lifeforms?,"[120, 140]",a new telescope that's capable of seeing further distances to find another Earth-life planet,"[184.0, 233.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+starshade.S5.Q5,starshade,448,What other projects are being worked on?,"[367, 392]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S19.Q4,starshade,1226,How far away is that from Earth?,"[1118, 1153]",,,2.0,['Explicit:Contingency.Cause.Reason'],[],[]
+starshade.S1.Q5,starshade,142,How many planets are there in the universe?,"[104, 140]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S64.Q2,starshade,3435,What is the purpose of doing this in space?,"[3279, 3323]",We could see planets by doing this in space.,"[3501.0, 3522.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],[],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'AltLex:Contingency.Cause.Result']"
+starshade.S68.Q2,starshade,3566,Did this suggestion actually take place?,"[3534, 3564]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S13.Q5,starshade,1030,When will create a fuel source to power a ship for that length of travel?,"[986, 1011]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+starshade.S7.Q5,starshade,658,Are any advances being made in regards to longer space travel?,"[546, 589]",,,1.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],[],[]
+starshade.S60.Q2,starshade,3279,How is the corona involved with Spitzer's suggestion?,"[3231, 3277]","Spitzer suggested that we do this same thing, but in space.","[3279.0, 3323.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S9.Q5,starshade,747,How many pale blue dots could there be in our galaxy alone?,"[732, 745]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S11.Q5,starshade,986,Are scientists any closer to having astronauts travel further than the Moon?,"[922, 941]",,,2.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],[]
+starshade.S46.Q1,starshade,2764,What exactly Lyman Spitzer did to earn the title father of the space telescope?,"[2638, 2651]",,,1.0,['EntRel:nan'],[],[]
+starshade.S53.Q1,starshade,2828,When was that?,"[2788, 2826]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S55.Q1,starshade,3008,What happened next after the moon blocks the sun?,"[2828, 2859]",Almost like I can see something at the back,"[3008.0, 3037.0]",4.0,['NoRel:nan'],[],['NoRel:nan']
+starshade.S19.Q5,starshade,1226,Why would we care to see Earth again?,"[1197, 1224]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+starshade.S49.Q2,starshade,2788,What was first suggested by Lyman Spitzer?,"[2612, 2651]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+starshade.S54.Q2,starshade,2901,What does the corona have to do with Spitzer's suggestion?,"[2863, 2889]",,,1.0,['AltLex:Expansion.Equivalence'],['AltLex:Expansion.Equivalence'],[]
+starshade.S56.Q2,starshade,3039,What does this have to do with Spitzer's suggestion?,"[2913, 2927]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S58.Q2,starshade,3115,What does a shadow have to do with Spitzer's suggestion?,"[3067, 3095]","If a camera is placed in the shadow, you can see the corona.","[3139.0, 3160.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['AltLex:Hypophora', 'EntRel:nan']"
+starshade.S96.Q1,starshade,5088,How does it fly out?,"[5020, 5039]",,,2.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+starshade.S100.Q1,starshade,5212,How many planets orbiting?,"[5178, 5201]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S88.Q2,starshade,4693,How is it held right in the telescopes shadow?,"[4657, 4691]",It is wrapped around the hub and it separates from the telescope.,"[4888.0, 4941.0]",4.0,"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']","['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']","['EntRel:nan', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S90.Q2,starshade,4878,What exactly is the design that you have come up with?,"[4804, 4834]",The starshade is an object that is wrapped around a hub and separates from the telescope.,"[4888.0, 4941.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S92.Q2,starshade,4943,How far does it separate from the telescope?,"[4910, 4941]","It separates and flies out 50,000 kilometers away from the telescope.","[5045.0, 5067.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['Explicit:Temporal.Asynchronous.Precedence']
+starshade.S96.Q2,starshade,5088,How many petals are part of this starshade?,"[4943, 4960]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S113.Q4,starshade,5791,What happens if they don't go to the same place?,"[5710, 5744]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S118.Q4,starshade,6014,What's the next step?,"[5988, 6012]",,,2.0,[],[],[]
+starshade.S120.Q4,starshade,6139,How many more tests do you have to do?,"[6014, 6047]",,,1.0,['EntRel:nan'],[],[]
+starshade.S122.Q4,starshade,6354,How do you plan to do this?,"[6198, 6231]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+starshade.S100.Q2,starshade,5212,Will a starshade be made all one size or will a starshade vary in size depending on what star to shadow?,"[5093, 5127]",,,1.0,['NoRel:nan'],[],[]
+starshade.S100.Q3,starshade,5212,How long does it last?,"[5144, 5170]",,,1.0,['NoRel:nan'],[],[]
+starshade.S81.Q2,starshade,4346,Is it expensive?,"[4198, 4237]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],[]
+starshade.S86.Q2,starshade,4485,Is it clear?,"[4364, 4376]",,,1.0,['EntRel:nan'],[],[]
+starshade.S88.Q3,starshade,4693,Is it modifiable? ,"[4562, 4591]",,,1.0,"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']",[],[]
+starshade.S126.Q4,starshade,6732,Do you expect to find an environment similar to Earth?,"[6697, 6730]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S128.Q4,starshade,6812,What if it doesn't work?,"[6778, 6810]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+starshade.S90.Q3,starshade,4878,Is it expensive?,"[4733, 4750]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S92.Q3,starshade,4943,Is it easily damaged?,"[4913, 4941]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+starshade.S96.Q3,starshade,5088,How do the petals unfurl?,"[4947, 4960]",,,2.0,['Implicit:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S124.Q4,starshade,6603,how are you going to get an occulter in front of it?,"[6412, 6431]",,,1.0,['EntRel:nan'],[],[]
+starshade.S88.Q4,starshade,4693,Which planets can it see?,"[4596, 4632]",,,2.0,"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']","['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']",[]
+starshade.S90.Q4,starshade,4878,What is the design?,"[4819, 4853]",It's wrapped around a hub,"[4888.0, 4908.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S81.Q3,starshade,4346,Why control diffraction?,"[4318, 4344]",They're creating a shadow,"[4357.0, 4376.0]",4.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+starshade.S86.Q3,starshade,4485,What planets?,"[4437, 4468]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S52.Q3,starshade,2788,What does a solar eclipse have to do with the new tech?,"[2764, 2786]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+starshade.S92.Q4,starshade,4943,What does it do next?,"[4910, 4941]",The petals unfurl turning around the telescope,"[4947.0, 5002.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],"['Implicit:Temporal.Asynchronous.Precedence', 'Implicit:Expansion.Equivalence', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S96.Q4,starshade,5088,What planets does it see?,"[5032, 5067]",,,2.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+starshade.S100.Q4,starshade,5212,What planets are orbiting?,"[5178, 5210]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S65.Q1,starshade,3566,why block the light?,"[3403, 3433]",the light shines so they can't see through the lense.,"[3688.0, 3732.0]",5.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S70.Q1,starshade,3676,Why does it not work?,"[3640, 3674]",all the light stops them from seeing ,"[3845.0, 3884.0]",5.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],['Explicit:Expansion.Conjunction']
+starshade.S78.Q4,starshade,4239,"What do they mean by ""we can see a planet""?","[4063, 4082]",,,1.0,['EntRel:nan'],[],[]
+starshade.S85.Q4,starshade,4378,Are they doing artwork with a flower?,"[4245, 4289]"," 50,000 kilometers away from the telescope ","[4610.0, 4651.0]",5.0,['EntRel:nan'],[],['Explicit:Expansion.Conjunction']
+starshade.S87.Q4,starshade,4534,Are they talking about planets or flowers?,"[4437, 4464]"," 50,000 kilometers away from the telescope ","[4610.0, 4651.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],['Explicit:Expansion.Conjunction']
+starshade.S40.Q3,starshade,2203,What causes the light to diffract?,"[2163, 2201]",The telescope diffracts the light apparently.,"[2203.0, 2239.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S42.Q3,starshade,2372,How do we fix the scattering light problem so we can see better?,"[2323, 2370]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S44.Q3,starshade,2544,What makes the colleagues' tech the coolest?,"[2515, 2542]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+starshade.S48.Q3,starshade,2742,What's the suggestion that Lyman Spitzer made?,"[2612, 2651]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S89.Q4,starshade,4728,What planets?,"[4713, 4726]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S91.Q4,starshade,4910,What hub?,"[4878, 4908]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+starshade.S93.Q5,starshade,5004,What petals?,"[4943, 4960]",,,1.0,['Explicit:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S99.Q5,starshade,5172,What creates the shadow?,"[5144, 5170]",Planets orbiting?,"[5185.0, 5210.0]",3.0,['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result']
+starshade.S33.Q3,starshade,2070,How did we get so far away from earth?,"[1885, 1939]",,,1.0,['EntRel:nan'],[],[]
+starshade.S38.Q3,starshade,2141,Why do we want to see inside the little red circle?,"[2113, 2139]",I believe but am not certain that the mission is to find interesting things to look at with the telescope.,"[2219.0, 2239.0]",3.0,"['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']","['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']","['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S81.Q4,starshade,4346,"What are you making that is a ""flower petal starshade""?","[4198, 4237]",I think what is being talked about is literally what it was originally called. A starshade. A big flower like shade to cover up brightness of a star so that a telescope can get better visions/view to what it is observing. ,"[4599.0, 4651.0]",4.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],['Explicit:Expansion.Conjunction']
+starshade.S86.Q4,starshade,4485,What exactly is being talked about?,"[4346, 4376]",Creating a piece to cover up brightness of a star so that a telescope can view what it is looking at without being blinded out by the stars light beaming.,"[4693.0, 4726.0]",4.0,['EntRel:nan'],[],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+starshade.S72.Q1,starshade,3886,Do they have different ideas?,"[3845, 3884]",soften the edges so the can control it better,"[4003.0, 4051.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Explicit:Contingency.Cause.Result']"
+starshade.S74.Q1,starshade,3936,Can they make a bigger shadow?,"[3886, 3908]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],[]
+starshade.S76.Q1,starshade,4084,Are they sure this will work?,"[4063, 4082]",they' came up with the best ways to do that,"[4115.0, 4151.0]",3.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction']
+starshade.S108.Q4,starshade,5537,Why do the petals unfurl?,"[5507, 5535]",,,2.0,"['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']","['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']",[]
+starshade.S112.Q4,starshade,5652,What is JPL?,"[5618, 5621]",,,1.0,['EntRel:nan'],[],[]
+starshade.S84.Q1,starshade,4346,why does this work better?,"[4291, 4344]",it's a lot dimmer than before.,"[4389.0, 4412.0]",4.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",['EntRel:nan']
+starshade.S106.Q4,starshade,5457,What is the purpose of a star shade?,"[5445, 5455]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S116.Q4,starshade,5791,Why such an exact placement?,"[5759, 5789]",It is precise space tech,"[5968.0, 6012.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Contingency.Condition.Arg2-as-cond', 'Implicit:Expansion.Conjunction', 'Implicit:Expansion.Conjunction']"
+starshade.S97.Q4,starshade,5212,What is it?,"[5009, 5035]",,,1.0,['NoRel:nan'],[],[]
+starshade.S102.Q4,starshade,5262,What is the setting since the speaker is receiving applause?,"[5212, 5232]",,,1.0,['EntRel:nan'],[],[]
+starshade.S104.Q4,starshade,5399,What type of test was conducted?,"[5334, 5359]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S16.Q2,starshade,1155,How difficult is it to turn around a space telescope?,"[1096, 1113]",,,1.0,[],[],[]
+starshade.S20.Q2,starshade,1291,What will having a blurry picture help us with?,"[1186, 1224]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],[]
+starshade.S48.Q4,starshade,2742,What is this new tech suggested by Spitzer?,"[2612, 2634]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S32.Q1,starshade,1885,What is ten times further away? ,"[1861, 1883]",Alpha Centauri,"[1898.0, 1912.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S36.Q1,starshade,2070,How far away is the planet now? ,"[2062, 2068]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S28.Q1,starshade,1689,What is ten times further away?,"[1665, 1687]",Oort Cloud,"[1712.0, 1722.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S42.Q4,starshade,2372,What planet?,"[2307, 2321]",a new Earth-like planet in another solar system,"[2583.0, 2610.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']"
+starshade.S44.Q4,starshade,2544,What is this new tech?,"[2490, 2514]",It's a technology inspired by an eclipse,"[2764.0, 2786.0]",3.0,['Explicit:Expansion.Conjunction'],[],['EntRel:nan']
+starshade.S52.Q4,starshade,2788,What was inspired by Spitzer?,"[2749, 2762]",,,2.0,['Implicit:Contingency.Cause.Reason'],[],[]
+starshade.S33.Q4,starshade,2070,What planet?,"[2044, 2068]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S38.Q4,starshade,2141,What red circle?,"[2094, 2111]",,,2.0,"['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']",['Explicit:Contingency.Cause.Reason'],[]
+starshade.S40.Q4,starshade,2203,where is this text going?,"[2141, 2161]",The narrative describes scientists working with a telescope,"[2208.0, 2239.0]",4.0,['Implicit:Expansion.Conjunction'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S10.Q2,starshade,922,What was the purpose of the Voyager?,"[754, 785]",,,1.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],[]
+starshade.S12.Q2,starshade,1012,Why do you just want a picture of another planet?,"[922, 965]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S80.Q1,starshade,4198,Looks something like what?,"[4171, 4196]",flower petal,"[4215.0, 4237.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S2.Q2,starshade,296,What does another planet need to be able to harbor life?,"[279, 294]",It needs to be an Earth-like planet.,"[572.0, 623.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Explicit:Expansion.Conjunction']
+starshade.S6.Q2,starshade,625,What makes these planets like Earth?,"[546, 589]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+starshade.S8.Q2,starshade,695,How are planets detected indirectly?,"[658, 693]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S60.Q3,starshade,3279,IS the corona the light around the moon we see in the eclipse?,"[3239, 3277]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S64.Q3,starshade,3435,Does an eclipse cause heat from sun to go down?,"[3403, 3433]",,,2.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+starshade.S68.Q3,starshade,3566,So is this how we could locate potential new homes for humans?,"[3491, 3522]",,,2.0,['EntRel:nan'],[],[]
+starshade.S58.Q3,starshade,3115,What was he talking about get us an earth?,"[3096, 3113]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S17.Q1,starshade,1291,what is the fairly small telescope called? ,"[1242, 1264]",My mistake. The telescope was named in the beginning. ,"[1358.0, 1364.0]",5.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S22.Q1,starshade,1366,what comes after the orbit of Uranus? ,"[1349, 1364]",Space. ,"[1531.0, 1543.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S24.Q1,starshade,1500,What is ten times further away?,"[1470, 1492]",Kuiper Belt,"[1556.0, 1567.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S26.Q1,starshade,1599,What is not resolved? ,"[1578, 1597]",,,1.0,['Implicit:Expansion.Equivalence'],['Implicit:Expansion.Equivalence'],[]
+starshade.S110.Q2,starshade,5692,what are the petals for?,"[5522, 5528]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+starshade.S117.Q2,starshade,5893,what happens when the petals go into place?,"[5710, 5744]",,,1.0,['EntRel:nan'],[],[]
+starshade.S119.Q2,starshade,6049,what will the technology do?,"[5952, 5983]",we will be able to see another solar system,"[6376.0, 6403.0]",4.0,['EntRel:nan'],['EntRel:nan'],['Implicit:Contingency.Cause.Reason']
+starshade.S49.Q3,starshade,2788,"What does he mean ""get us an Earth?""","[2576, 2591]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+starshade.S54.Q3,starshade,2901,Does this happen at night or day?,"[2831, 2859]",A spot light would be like a bright sun in the day,"[2953.0, 2975.0]",3.0,['AltLex:Expansion.Equivalence'],['AltLex:Expansion.Equivalence'],['AltLex:Expansion.Equivalence']
+starshade.S56.Q3,starshade,3039,Do eclipses have any other effects?,"[3008, 3021]","Other than shadows, probably not.","[3071.0, 3095.0]",3.0,['NoRel:nan'],['NoRel:nan'],['AltLex:Hypophora']
+starshade.S123.Q2,starshade,6464,what is an occulter?,"[6423, 6431]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S125.Q2,starshade,6617,How about the rest of the planets?,"[6464, 6483]",,,1.0,['EntRel:nan'],[],[]
+starshade.S127.Q2,starshade,6778,what kind of life?,"[6710, 6730]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S45.Q2,starshade,2612,How to get rid of the light,"[2425, 2474]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S51.Q2,starshade,2764,How does an eclipse help with the light issue,"[2733, 2740]",The moon blocks out the sun,"[2788.0, 2826.0]",4.0,['EntRel:nan'],[],['Implicit:Contingency.Cause.Reason']
+starshade.S30.Q2,starshade,1965,What planet,"[1949, 1955]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S37.Q2,starshade,2113,How far away are we now,"[2026, 2052]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S43.Q2,starshade,2398,How to get rid of the light,"[2372, 2396]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S121.Q2,starshade,6248,what will happen if you can put out a similar space telescope?,"[6139, 6179]",we might see a family portrait of another solar system,"[6248.0, 6288.0]",5.0,[],[],['EntRel:nan']
+starshade.S39.Q2,starshade,2163,What is hard,"[2148, 2161]",The light of the sun blocks out the light coming from the planet,"[2163.0, 2201.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail']"
+starshade.S41.Q2,starshade,2301,What telescope are you using,"[2230, 2239]",,,1.0,['Explicit:Contingency.Cause.Result'],['Explicit:Contingency.Cause.Result'],[]
+starshade.S46.Q2,starshade,2764,What is the coolest technology?,"[2520, 2542]",,,1.0,['EntRel:nan'],[],[]
+starshade.S55.Q2,starshade,3008,What does the eclipse have to do with cool tech?,"[2831, 2859]",removes light,"[3191.0, 3223.0]",4.0,['NoRel:nan'],[],"['AltLex:Hypophora', 'EntRel:nan', 'Explicit:Contingency.Condition.Arg1-as-cond']"
+starshade.S57.Q2,starshade,3062,Did blocking light inspire cool tech?,"[3045, 3061]",camera in moon's shadow,"[3124.0, 3160.0]",4.0,[],[],"['AltLex:Hypophora', 'EntRel:nan']"
+starshade.S59.Q2,starshade,3249,What is dim?,"[3228, 3247]",corona structure,"[3249.0, 3277.0]",5.0,[],[],"['AltLex:Hypophora', 'EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+starshade.S61.Q2,starshade,3325,What happens if the technique is used in space?,"[3279, 3323]",we can see planets,"[3501.0, 3522.0]",5.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'AltLex:Contingency.Cause.Result']"
+starshade.S53.Q2,starshade,2828,What did the eclipse inspire?,"[2771, 2786]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S41.Q3,starshade,2301,Would a different type of telescope work better to see it?,"[2203, 2239]","Sounds like there's a method to see the planet, but it hasn't clarified the details yet. It has to do with getting rid of the light. ","[2326.0, 2370.0]",3.0,['Explicit:Contingency.Cause.Result'],['Explicit:Contingency.Cause.Result'],['Explicit:Contingency.Cause.Result']
+starshade.S43.Q3,starshade,2398,How do we get rid of it?,"[2372, 2396]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S45.Q3,starshade,2612,What are these new technologies?,"[2425, 2463]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S51.Q3,starshade,2764,What was first suggested?,"[2619, 2651]",,,1.0,['EntRel:nan'],[],[]
+starshade.S67.Q3,starshade,3524,Are these exoplanets we can see?,"[3515, 3522]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S29.Q2,starshade,1846,How far out are we planning on going?,"[1640, 1687]",Ten times further away from the last point,"[1846.0, 1883.0]",5.0,['NoRel:nan'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'NoRel:nan']"
+starshade.S110.Q3,starshade,5692,What kind of petals are they?,"[5543, 5565]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+starshade.S30.Q3,starshade,1965,Ten times further away from what? What was the starting point?,"[1640, 1687]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S37.Q3,starshade,2113,What planet is being referred to? ,"[2026, 2068]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S39.Q3,starshade,2163,What do we want to see?,"[2113, 2139]",The unnamed planet,"[2255.0, 2299.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S35.Q2,starshade,1965,Which planet is gone?,"[1945, 1963]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S14.Q2,starshade,1226,What hasn't been done?,"[986, 1011]",,,1.0,['Explicit:Contingency.Cause.Reason'],[],[]
+starshade.S21.Q2,starshade,1330,What is being moved away from?,"[1291, 1328]",Uranus,"[1358.0, 1364.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S23.Q2,starshade,1423,What has less resolve?,"[1387, 1421]",,,1.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],[]
+starshade.S25.Q2,starshade,1569,Is the Kuiper belt similar to the asteroid belt?,"[1556, 1567]",,,1.0,['AltLex:Temporal.Synchronous'],['AltLex:Temporal.Synchronous'],[]
+starshade.S27.Q2,starshade,1640,Who is Carl Sagan?,"[1626, 1638]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+starshade.S125.Q3,starshade,6617,What angel is this from?,"[6472, 6520]",,,2.0,['EntRel:nan'],[],[]
+starshade.S127.Q3,starshade,6778,Is there any evidence thus far?,"[6691, 6730]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S81.Q5,starshade,4346,Is this related to some sort of smart lighting  product?,"[4228, 4237]",Seems to be related to astronomy and potentially a telescope or telescope related product. ,"[4440.0, 4459.0]",4.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S86.Q5,starshade,4485,Can you see all the planets?,"[4452, 4459]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S88.Q5,starshade,4693,How heavy is the starshade?,"[4562, 4591]",,,1.0,"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']",[],[]
+starshade.S90.Q5,starshade,4878,What's the next step for this plan?,"[4828, 4834]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S92.Q5,starshade,4943,What happens after it separates from the telescope?,"[4913, 4922]",It will fly a very large distance away from the telescope after separating from it. ,"[5045.0, 5086.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['Explicit:Temporal.Asynchronous.Precedence']
+starshade.S96.Q5,starshade,5088,Where will it eventually land?,"[5032, 5035]",It's going to be adjacent to a star in space.,"[5110.0, 5127.0]",4.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence']
+starshade.S100.Q5,starshade,5212,How will this device enable planets to orbit it?,"[5185, 5210]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S117.Q3,starshade,5893,Why is the position so important?,"[5759, 5789]",can build this technology,"[5958.0, 5983.0]",4.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Contingency.Condition.Arg2-as-cond', 'Implicit:Expansion.Conjunction']"
+starshade.S119.Q3,starshade,6049,why in space?,"[5985, 6012]",take a similar space telescope,"[6149.0, 6179.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan']"
+starshade.S121.Q3,starshade,6248,why an occulter? ,"[6216, 6246]",see someone else's solar system,"[6376.0, 6431.0]",4.0,[],[],['Implicit:Contingency.Cause.Reason']
+starshade.S123.Q3,starshade,6464,Why the interest?,"[6354, 6375]",earth at center,"[6565.0, 6615.0]",3.0,['NoRel:nan'],['NoRel:nan'],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'EntRel:nan']"
+starshade.S60.Q4,starshade,3279,What are we trying to see in space?,"[3122, 3145]",We are trying to find new planets and other features.,"[3501.0, 3522.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'AltLex:Contingency.Cause.Result']"
+starshade.S64.Q4,starshade,3435,Is the big screen meant to create a shadow effect and increase visibility?,"[3325, 3346]","The shadow would allow us to see a better view of space, and potentially see more planets.","[3501.0, 3522.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],[],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'AltLex:Contingency.Cause.Result']"
+starshade.S12.Q3,starshade,1012,Why haven't they done what? ,"[932, 984]",,,2.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S16.Q3,starshade,1155,What type of picture is it the person is wanting? ,"[1060, 1113]",A distant picture from space. ,"[1240.0, 1289.0]",4.0,[],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Contingency.Cause.Reason']"
+starshade.S20.Q3,starshade,1291,What is the subject of the photo this person seeks? ,"[1255, 1289]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],[]
+starshade.S61.Q3,starshade,3325,Did it work to put the telescope in space?,"[3279, 3323]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S67.Q4,starshade,3524,What is the big screen made of?,"[3325, 3347]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S49.Q4,starshade,2788,What is the significance of the solar eclipse in the discussion?,"[2764, 2786]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+starshade.S54.Q4,starshade,2901,How are the mechanics of a solar eclipse significant to the larger discussion?,"[2792, 2826]",,,1.0,['AltLex:Expansion.Equivalence'],[],[]
+starshade.S56.Q4,starshade,3039,Does the solar eclipse affect visibility somehow?,"[3008, 3037]",The shadow of an eclipse can give better visibility when viewing objects in space,"[3228.0, 3263.0]",4.0,['NoRel:nan'],['NoRel:nan'],"['AltLex:Hypophora', 'EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+starshade.S58.Q4,starshade,3115,What does the moon and its shadow mean to the discussion?,"[3071, 3113]",The shadow of the moon can give us better visibility of the sun by blocking its light,"[3191.0, 3223.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['AltLex:Hypophora', 'EntRel:nan', 'Explicit:Contingency.Condition.Arg1-as-cond']"
+starshade.S68.Q4,starshade,3566,How would we know exactly where to create a shadow?,"[3438, 3489]",,,1.0,['EntRel:nan'],[],[]
+starshade.S57.Q3,starshade,3062,How does this apply to finding another earth,"[3045, 3061]",It has to do with telescope placement,"[3118.0, 3160.0]",3.0,[],[],"['AltLex:Hypophora', 'EntRel:nan']"
+starshade.S59.Q3,starshade,3249,Where is this telescope located?,"[3115, 3133]",In space,"[3304.0, 3323.0]",5.0,[],[],['EntRel:nan']
+starshade.S2.Q3,starshade,296,What is it they want a telescope to do? ,"[211, 252]",They are searching for a new star that may have Earth like planets. ,"[546.0, 589.0]",5.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Explicit:Expansion.Conjunction']
+starshade.S6.Q3,starshade,625,What are astronomers planning on doing if they ever find such a planet? ,"[572, 623]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+starshade.S8.Q3,starshade,695,How did astronomers detect Earth like planets indirectly? ,"[658, 693]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S10.Q3,starshade,922,How far is six billion kilometers? ,"[893, 915]",,,1.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],[]
+starshade.S46.Q3,starshade,2764,What kind of technology are you talking about?,"[2425, 2463]",,,1.0,['EntRel:nan'],[],[]
+starshade.S62.Q4,starshade,3524,Is the star causing the light?,"[3381, 3415]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S69.Q4,starshade,3618,Are you talking about the planets in the solar system?,"[3606, 3616]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+starshade.S71.Q4,starshade,3790,Would heavy waves act differently?,"[3688, 3732]",,,1.0,['AltLex:Comparison.Similarity'],['AltLex:Comparison.Similarity'],[]
+starshade.S73.Q4,starshade,3910,How big is the shadow?,"[3893, 3908]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[]
+starshade.S75.Q4,starshade,3974,"If spitzer knew the answer, why did he suggest we do this in space?","[3940, 3972]",We came up with optimal solutons in the last 10 years.,"[4095.0, 4128.0]",5.0,['EntRel:nan'],['EntRel:nan'],['Explicit:Expansion.Conjunction']
+starshade.S115.Q1,starshade,5692,What connects the petals? ,"[5658, 5690]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S53.Q3,starshade,2828,What about the eclipse inspired him?,"[2771, 2786]",,,2.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S55.Q3,starshade,3008,How does this relate to the technology you're discussing,"[2870, 2903]",It allows you to see more,"[3008.0, 3037.0]",4.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+starshade.S83.Q4,starshade,4239,Does it look like a flower petal?,"[4215, 4237]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S77.Q4,starshade,4168,How do we soften the edges?,"[4003, 4051]",,,2.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S105.Q1,starshade,5425,What are the petals? ,"[5399, 5423]",It's a sub-scale star shade,"[5425.0, 5455.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S107.Q1,starshade,5507,How large is the one we saw? ,"[5468, 5505]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S94.Q1,starshade,5172,What flies away from the telescope? ,"[5032, 5086]",,,1.0,['AltLex:Contingency.Cause.Result'],[],[]
+starshade.S101.Q1,starshade,5234,What do the planets orbit around? ,"[5185, 5210]",,,1.0,['NoRel:nan'],[],[]
+starshade.S103.Q1,starshade,5321,What have they been working on? ,"[5262, 5288]",A sub-scale star shade,"[5425.0, 5455.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['EntRel:nan']
+starshade.S26.Q2,starshade,1599,What's not resolved?,"[1573, 1597]",,,2.0,['Implicit:Expansion.Equivalence'],['Implicit:Expansion.Equivalence'],[]
+starshade.S22.Q2,starshade,1366,What is being made an example of?,"[1330, 1364]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S24.Q2,starshade,1500,What has gotten smaller?,"[1366, 1385]",,,1.0,['Implicit:Contingency.Cause.Result'],[],[]
+starshade.S109.Q1,starshade,5623,What are the petals made of? ,"[5537, 5588]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S36.Q2,starshade,2070,Why is it so bright?,"[2026, 2068]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S52.Q5,starshade,2788,Can you only observe during a rare solar eclipse then?,"[2764, 2786]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+starshade.S28.Q2,starshade,1689,Why does the text keep going further out?,"[1644, 1687]",Looks like it's referring the distance of a certain planet,"[1825.0, 1844.0]",4.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+starshade.S32.Q2,starshade,1885,What is lastly 10x further away?,"[1861, 1883]",Alpha Centauri's distance appears to have been described.,"[1898.0, 1912.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S17.Q2,starshade,1291,What analogy is being made?,"[1186, 1224]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],[]
+starshade.S40.Q5,starshade,2203,What happens when light diffracts?,"[2167, 2201]",The light is scattering inside the telescope and causes the view of the planet to be obscured.,"[2208.0, 2239.0]",5.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S42.Q5,starshade,2372,What are we going to do about all that light?,"[2326, 2346]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S44.Q5,starshade,2544,What's the technology?,"[2490, 2508]",A solar eclipse,"[2764.0, 2786.0]",4.0,['Explicit:Expansion.Conjunction'],[],['EntRel:nan']
+starshade.S48.Q5,starshade,2742,What did Lyman Spitzer make?,"[2612, 2651]",A solar eclipse,"[2764.0, 2786.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S14.Q3,starshade,1226,What haven't we done?,"[986, 1011]",Use the telescope for far away viewing,"[1226.0, 1264.0]",3.0,['Explicit:Contingency.Cause.Reason'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Contingency.Cause.Reason']"
+starshade.S21.Q3,starshade,1330,What type of telescope is it?,"[1249, 1264]",,,1.0,['Implicit:Contingency.Cause.Result'],[],[]
+starshade.S36.Q3,starshade,2070,Can you make out anything other than the brightness?,"[2026, 2068]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S23.Q3,starshade,1423,Are they talking about pictures from space?,"[1366, 1421]","You can see the moon, but it is smaller","[1426.0, 1455.0]",4.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Comparison.Concession.Arg2-as-denier']"
+starshade.S25.Q3,starshade,1569,What is the Kuiper Belt?,"[1556, 1567]",,,1.0,['AltLex:Temporal.Synchronous'],['AltLex:Temporal.Synchronous'],[]
+starshade.S27.Q3,starshade,1640,"Are they talking about how big things are in space, verses how big we imagine they are?","[1609, 1638]","When you move further out, you can see the whole picture once the sun comes into the field of  vision","[1780.0, 1811.0]",4.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+starshade.S29.Q3,starshade,1846,How small is the planet in this perspective?,"[1825, 1844]","When you move further out, you can't even see the planet anymore","[1918.0, 1963.0]",4.0,['NoRel:nan'],['NoRel:nan'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result', 'Explicit:Expansion.Conjunction']"
+starshade.S35.Q3,starshade,1965,Are the planets near Alpha Centauri as big as our planents,"[1898, 1912]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S33.Q5,starshade,2070,Where are we going next?,"[1885, 1912]",It seems we're stopping here.,"[2163.0, 2186.0]",3.0,['EntRel:nan'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail']"
+starshade.S38.Q5,starshade,2141,Why do we want to see the star?,"[2125, 2139]",To observe diffraction.,"[2167.0, 2201.0]",3.0,"['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']","['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']","['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail']"
+starshade.S17.Q3,starshade,1291,Will it be earth or mars based?,"[1242, 1289]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],[]
+starshade.S22.Q3,starshade,1366,Will we even be able to see earth from that distance?,"[1295, 1328]",It will be smaller with less resolution and detail.,"[1366.0, 1421.0]",5.0,['EntRel:nan'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'EntRel:nan']"
+starshade.S24.Q3,starshade,1500,Will we be able to see it?,"[1461, 1498]",It cannot be resolved from this distance.,"[1569.0, 1597.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'AltLex:Temporal.Synchronous']"
+starshade.S26.Q3,starshade,1599,what can be done to make it resolve?,"[1569, 1597]",,,1.0,['Implicit:Expansion.Equivalence'],['Implicit:Expansion.Equivalence'],[]
+starshade.S28.Q3,starshade,1689,what can we see from this distance?,"[1644, 1687]",The sun,"[1780.0, 1811.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+starshade.S32.Q3,starshade,1885,What will we see from this distance?,"[1861, 1883]",All we can see is the star and its brightness. ,"[1989.0, 2018.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S30.Q4,starshade,1965,What planet is referenced?,"[1945, 1955]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S37.Q4,starshade,2113,What planet is in the red circle?,"[2086, 2111]",,,1.0,['EntRel:nan'],[],[]
+starshade.S39.Q4,starshade,2163,Are we wanting to see the planet?,"[2113, 2124]",The light makes it hard to see the planet.,"[2289.0, 2299.0]",5.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S41.Q4,starshade,2301,Which planet is it?,"[2293, 2299]",Earth,"[2586.0, 2591.0]",5.0,['Explicit:Contingency.Cause.Result'],['Explicit:Contingency.Cause.Result'],"['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']"
+starshade.S51.Q4,starshade,2764,What was suggested by Spitzer?,"[2612, 2614]",,,1.0,['EntRel:nan'],[],[]
+starshade.S123.Q4,starshade,6464,Do you think its likely you'll see another solar system?,"[6354, 6403]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S125.Q4,starshade,6617,Where are the other planets?,"[6464, 6520]",,,1.0,['EntRel:nan'],[],[]
+starshade.S127.Q4,starshade,6778,What are the odds you'll find those things?,"[6638, 6673]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S109.Q2,starshade,5623,What is JPL?,"[5618, 5621]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S115.Q2,starshade,5692,Why do they have to rotate?,"[5652, 5690]",They have to go to the same place each time.,"[5717.0, 5755.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+starshade.S94.Q2,starshade,5172,What are they looking at through the telescope?,"[5088, 5127]",Planets are orbiting around what they're looking at,"[5178.0, 5210.0]",3.0,['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result']
+starshade.S101.Q2,starshade,5234,Where is this taking place?,"[5212, 5232]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S103.Q2,starshade,5321,What have they been working on for so long?,"[5273, 5319]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S105.Q2,starshade,5425,What are these petals they're talking about?,"[5399, 5423]",It sounds like the petals are something called a sub-scale star shade,"[5425.0, 5455.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S107.Q2,starshade,5507,What are some of its other properties?,"[5462, 5505]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S43.Q4,starshade,2398,How do we get rid of the light?,"[2375, 2396]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S45.Q4,starshade,2612,What is the coolest technology?,"[2535, 2542]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S103.Q3,starshade,5321,When is this technology going to be launched?,"[5297, 5319]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S105.Q3,starshade,5425,When is the next test?,"[5321, 5354]",,,1.0,['EntRel:nan'],[],[]
+starshade.S101.Q3,starshade,5234,Who is this person speaking in front of?,"[5212, 5222]",,,1.0,['NoRel:nan'],[],[]
+starshade.S23.Q4,starshade,1423,Why are we trying to make the image smaller?,"[1366, 1421]",They're trying to show how small the earth gets when you move far away from it.,"[1599.0, 1638.0]",3.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Equivalence']"
+starshade.S25.Q4,starshade,1569,What is the Kuiper Belt?,"[1552, 1567]",,,1.0,['AltLex:Temporal.Synchronous'],['AltLex:Temporal.Synchronous'],[]
+starshade.S27.Q4,starshade,1640,What causes it to be so hard to see?,"[1569, 1597]",It's bunched up near the sun from this distance.,"[1776.0, 1811.0]",3.0,['Explicit:Expansion.Conjunction'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+starshade.S29.Q4,starshade,1846,What is the Oort Cloud?,"[1712, 1722]",,,1.0,['NoRel:nan'],[],[]
+starshade.S110.Q4,starshade,5692,What are the petals for?,"[5507, 5535]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+starshade.S117.Q4,starshade,5893,What happens if the petals don't go to the same place?,"[5710, 5755]",,,2.0,['EntRel:nan'],[],[]
+starshade.S119.Q4,starshade,6049,How would this be used in space?,"[5985, 6012]",used with a telescope,"[6156.0, 6179.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan']"
+starshade.S121.Q4,starshade,6248,What is an occulter?,"[6216, 6231]",,,1.0,[],[],[]
+starshade.S107.Q3,starshade,5507,What does a star shade do?,"[5445, 5455]",,,2.0,['EntRel:nan'],[],[]
+starshade.S35.Q4,starshade,1965,How is it gone? Did it disappear from view?,"[1959, 1963]",The star greatly outshines the planet.,"[2026.0, 2068.0]",5.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S22.Q4,starshade,1366,How far away are we going to move?,"[1291, 1315]",There going 10 further again,"[1461.0, 1498.0]",5.0,['EntRel:nan'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+starshade.S24.Q4,starshade,1500,Why are we looking at the little moon?,"[1444, 1455]",,,1.0,['Implicit:Contingency.Cause.Result'],[],[]
+starshade.S26.Q4,starshade,1599,What are you trying to resolve?,"[1578, 1597]",pale blue dot ,"[1599.0, 1638.0]",4.0,['Implicit:Expansion.Equivalence'],['Implicit:Expansion.Equivalence'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Equivalence']"
+starshade.S28.Q4,starshade,1689,How far away are you going to move?,"[1665, 1687]",ten times further away again,"[1861.0, 1883.0]",3.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'NoRel:nan']"
+starshade.S14.Q4,starshade,1226,Why haven't we done what?,"[986, 1011]",,,1.0,['Explicit:Contingency.Cause.Reason'],[],[]
+starshade.S21.Q4,starshade,1330,Why are we moving a telescope far into outer space?,"[1291, 1328]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+starshade.S84.Q2,starshade,4346,"Has this been done in space yet, or just as an experiment?","[4318, 4344]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[]
+starshade.S65.Q2,starshade,3566,Which planets could we see?,"[3501, 3522]","It doesn't work, so we can't see any planets.","[3598.0, 3616.0]",5.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S70.Q2,starshade,3676,Why doesn't it work?,"[3640, 3674]","The screen doesn't block the light, because the light diffracts around it.","[3703.0, 3751.0]",5.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S72.Q2,starshade,3886,Would a bigger screen solve the problem?,"[3845, 3884]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S80.Q2,starshade,4198,What do you think will happen in the next 10 years?,"[4088, 4114]",,,1.0,['EntRel:nan'],[],[]
+starshade.S109.Q3,starshade,5623,What else are they building?,"[5560, 5588]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S115.Q3,starshade,5692,What happens once the petals are in place?,"[5673, 5690]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S17.Q4,starshade,1291,What will we see?,"[1155, 1184]",the little moon,"[1436.0, 1455.0]",5.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Comparison.Concession.Arg2-as-denier']"
+starshade.S33.Q6,starshade,2070,Where did the planet go?,"[1945, 1963]",The planet should be in a red circle.,"[2070.0, 2111.0]",4.0,['EntRel:nan'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason']"
+starshade.S38.Q6,starshade,2141,Is the planet in the circle?,"[2076, 2111]",,,2.0,"['Explicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']",['Explicit:Contingency.Cause.Reason'],[]
+starshade.S40.Q6,starshade,2203,Why is the star's light so bright?,"[2163, 2201]",The light shows up too bright in the telescope.,"[2219.0, 2272.0]",5.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S65.Q3,starshade,3566,Could that really work?,"[3328, 3366]","No, it doesn't.","[3640.0, 3674.0]",5.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S70.Q3,starshade,3676,Did they actually try it?,"[3569, 3616]",They found out light behaves the same around the screen.,"[3723.0, 3764.0]",4.0,['Explicit:Contingency.Cause.Reason'],[],"['EntRel:nan', 'Explicit:Contingency.Cause.Reason']"
+starshade.S72.Q3,starshade,3886,Is there a solution to that problem?,"[3845, 3884]","If we feather the edges, we control diffraction.","[3977.0, 4001.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan']"
+starshade.S74.Q2,starshade,3936,Is there any other way?,"[3886, 3908]",There is a way to adapt to correct the problem.,"[3940.0, 3972.0]",4.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],['Explicit:Comparison.Concession.Arg2-as-denier']
+starshade.S76.Q2,starshade,4084,How many planets have been found this way?,"[4058, 4082]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+starshade.S80.Q3,starshade,4198,You've been using this method for ten years?,"[4088, 4114]",,,1.0,['EntRel:nan'],[],[]
+starshade.S84.Q3,starshade,4346,So the proper shape is like a flower petal?,"[4201, 4237]",,,2.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],[]
+starshade.S74.Q3,starshade,3936,If there anything that can be done to make a better shadow?,"[3886, 3908]",Control the diffraction by softening the edges.,"[4003.0, 4051.0]",5.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],"['Explicit:Contingency.Condition.Arg2-as-cond', 'EntRel:nan', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Explicit:Contingency.Cause.Result']"
+starshade.S76.Q3,starshade,4084,What planet can we see?,"[4058, 4082]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+starshade.S32.Q4,starshade,1885,What planet are you trying to see?,"[1831, 1841]",Seeing a big star,"[1989.0, 2018.0]",3.0,['Implicit:Contingency.Cause.Result'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S36.Q4,starshade,2070,Is it the sun?,"[2026, 2068]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S37.Q5,starshade,2113,What is the red circle?,"[2089, 2111]",,,1.0,['EntRel:nan'],[],[]
+starshade.S94.Q3,starshade,5172,What is separating from the telescope?,"[4910, 4922]",Something that can cause planets to orbit around itself.,"[5185.0, 5210.0]",3.0,['AltLex:Contingency.Cause.Result'],[],['AltLex:Contingency.Cause.Result']
+starshade.S30.Q5,starshade,1965,How did you get to Alpha Centauri?,"[1885, 1912]",,,2.0,['Implicit:Expansion.Conjunction'],[],[]
+starshade.S94.Q4,starshade,5172,What separates from the telescope?,"[4910, 4941]",,,1.0,['AltLex:Contingency.Cause.Result'],[],[]
+starshade.S39.Q5,starshade,2163,Why is it hard?,"[2141, 2161]",The light from the star scatters in the telescope and washes out the planet.,"[2278.0, 2299.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S41.Q5,starshade,2301,Whose telescope is it?,"[2208, 2239]",,,1.0,['Explicit:Contingency.Cause.Result'],['Explicit:Contingency.Cause.Result'],[]
+starshade.S43.Q5,starshade,2398,How do you get rid of the light?,"[2375, 2396]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+starshade.S45.Q5,starshade,2612,Why is it the coolest?,"[2520, 2542]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S51.Q5,starshade,2764,Where was Spitzer from?,"[2619, 2651]",,,1.0,['EntRel:nan'],[],[]
+starshade.S17.Q5,starshade,1291,Do you think we will ever have a telescope in the orbit of Mars?,"[1140, 1153]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],[]
+starshade.S22.Q5,starshade,1366,Why did it move there?,"[1342, 1364]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S42.Q6,starshade,2372,How will you dim the light?,"[2331, 2370]",We have technologies to get rid of it.,"[2425.0, 2463.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Conjunction']
+starshade.S44.Q6,starshade,2544,Which tech is the coolest?,"[2505, 2542]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+starshade.S48.Q6,starshade,2742,How will the tech get us an Earth?,"[2557, 2591]",,,1.0,['EntRel:nan'],[],[]
+starshade.S24.Q5,starshade,1500,"What moon, the earth's moon?","[1444, 1455]",,,1.0,['Implicit:Contingency.Cause.Result'],[],[]
+starshade.S26.Q5,starshade,1599,What is the Kuiper Belt?,"[1556, 1567]",,,1.0,['Implicit:Expansion.Equivalence'],[],[]
+starshade.S28.Q5,starshade,1689,What's ten times further away?,"[1665, 1687]","The ""Oort Cloud"" is there, outside the solar system.","[1712.0, 1748.0]",4.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S32.Q5,starshade,1885,What's ten times further out?,"[1861, 1883]","Alpha Centauri, the nearest star, is ten times further out.","[1898.0, 1939.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S36.Q5,starshade,2070,Is Alpha Centauri similar to the sun?,"[1898, 1939]",,,1.0,['EntRel:nan'],[],[]
+starshade.S101.Q4,starshade,5234,What are the planets orbiting?,"[5178, 5210]",,,1.0,['NoRel:nan'],[],[]
+starshade.S103.Q4,starshade,5321,What is being worked on?,"[5273, 5319]",Possibly a star,"[5435.0, 5455.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['EntRel:nan']
+starshade.S101.Q5,starshade,5234,What are the planets orbiting?,"[5185, 5210]",,,1.0,['NoRel:nan'],[],[]
+starshade.S103.Q5,starshade,5321,What have they been working on????,"[5262, 5288]","Looks like they are possibly working on a ""star shade"".","[5425.0, 5455.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['EntRel:nan']
+starshade.S105.Q4,starshade,5425,What are the petals?,"[5412, 5423]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S107.Q4,starshade,5507,What is a star shade?,"[5445, 5455]",,,1.0,['EntRel:nan'],[],[]
+starshade.S109.Q4,starshade,5623,What is the internship for?,"[5597, 5614]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S2.Q4,starshade,296,How powerful would the telescope need to be?,"[176, 199]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S94.Q5,starshade,5172,What is moving in front of the star?,"[5088, 5127]",,,1.0,['AltLex:Contingency.Cause.Result'],['AltLex:Contingency.Cause.Result'],[]
+starshade.S52.Q6,starshade,2788,How did a solar eclipse inspire this tech?,"[2764, 2786]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+starshade.S65.Q4,starshade,3566,what would we build?,"[3334, 3346]",A big screen,"[3606.0, 3616.0]",4.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S70.Q4,starshade,3676,It there a planet?,"[3609, 3616]",NO,"[3865.0, 3884.0]",4.0,['Explicit:Contingency.Cause.Reason'],[],['Explicit:Expansion.Conjunction']
+starshade.S72.Q4,starshade,3886,what does bending around a rockin the stream do?,"[3865, 3884]",destroys shadows,"[3902.0, 3908.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S74.Q4,starshade,3936,How is the shadow,"[3902, 3908]",terrible,"[4076.0, 4082.0]",4.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],['EntRel:nan']
+starshade.S76.Q4,starshade,4084,what happens when you feather edges,"[4032, 4051]",controls diffraction ,"[4103.0, 4108.0]",4.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction']
+starshade.S80.Q4,starshade,4198,when did we come up with optimal solutions for that,"[4100, 4108]",10 years,"[4333.0, 4344.0]",4.0,['EntRel:nan'],[],['EntRel:nan']
+starshade.S84.Q4,starshade,4346,What can we control,"[4333, 4344]",Diffraction,"[4389.0, 4405.0]",4.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",['EntRel:nan']
+starshade.S115.Q4,starshade,5692,How do the petals rotate?,"[5652, 5690]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S115.Q5,starshade,5692,Where are they deploying?,"[5634, 5650]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+starshade.S6.Q4,starshade,625,Are there more planets than we currently think there are?,"[477, 514]",haven't seen them...only detected them indirectly,"[658.0, 693.0]",4.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Expansion.Substitution.Arg2-as-subst']
+starshade.S8.Q4,starshade,695,How many planets do you think there are?,"[629, 656]",,,1.0,['NoRel:nan'],[],[]
+starshade.S10.Q4,starshade,922,Are there other pictures like this?,"[710, 745]",I want to take more photos...why haven't we?,"[986.0, 1011.0]",5.0,['Implicit:Comparison.Similarity'],[],['Implicit:Comparison.Concession.Arg2-as-denier']
+starshade.S105.Q5,starshade,5425,What are the four petals?,"[5402, 5423]",Is it a star?,"[5435.0, 5455.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S12.Q4,starshade,1012,Is it possible to take more photos like this?,"[932, 965]",take the Hubble....turn it around and move it....,"[1057.0, 1091.0]",4.0,['Implicit:Expansion.Conjunction'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'AltLex:Contingency.Condition.Arg2-as-cond']"
+starshade.S16.Q4,starshade,1155,Would you be able to photograph Mars?,"[1118, 1153]",...a slightly blurry picture of the Earth,"[1155.0, 1184.0]",3.0,[],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason']"
+starshade.S107.Q5,starshade,5507,Who is seeing?,"[5485, 5505]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S109.Q5,starshade,5623,Where did they build?,"[5560, 5588]",,,1.0,['AltLex:Temporal.Asynchronous.Precedence'],[],[]
+starshade.S20.Q4,starshade,1291,But can you photograph the other planets?,"[1188, 1224]",here we are...at Uranus,"[1342.0, 1364.0]",4.0,['AltLex:Temporal.Asynchronous.Precedence'],['AltLex:Temporal.Asynchronous.Precedence'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result']"
+starshade.S116.Q5,starshade,5791,what happens if they're off by a millimeter?,"[5759, 5789]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S14.Q5,starshade,1226,Why would we do that anyway?,"[1096, 1132]",,,1.0,['Explicit:Contingency.Cause.Reason'],[],[]
+starshade.S21.Q5,starshade,1330,What do we see now?,"[1291, 1328]",We see less detail,"[1366.0, 1421.0]",5.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'EntRel:nan']"
+starshade.S23.Q5,starshade,1423,Will we go further?,"[1330, 1364]",We went 10 times further,"[1457.0, 1498.0]",5.0,['Implicit:Comparison.Concession.Arg2-as-denier'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+starshade.S25.Q5,starshade,1569,What do we see from the Kuiper Belt?,"[1545, 1567]",It's completely unclear now,"[1569.0, 1597.0]",5.0,['AltLex:Temporal.Synchronous'],['AltLex:Temporal.Synchronous'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'AltLex:Temporal.Synchronous']"
+starshade.S102.Q5,starshade,5262,what's not science fiction?,"[5234, 5260]",the petals unfurling on a sub-scale star shade.,"[5412.0, 5423.0]",4.0,['EntRel:nan'],['EntRel:nan'],['NoRel:nan']
+starshade.S104.Q5,starshade,5399,what was tested?,"[5341, 5359]",a sub-scale star shade.,"[5435.0, 5455.0]",5.0,['NoRel:nan'],['NoRel:nan'],['EntRel:nan']
+starshade.S106.Q5,starshade,5457,"what does it actually do, though?","[5425, 5429]",the petals unfurl.,"[5522.0, 5535.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S27.Q5,starshade,1640,What is this pale blue dot?,"[1599, 1638]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+starshade.S29.Q5,starshade,1846,What do we see if we move further?,"[1780, 1811]",We don't see the planet at all anymore,"[1941.0, 1963.0]",5.0,['NoRel:nan'],['NoRel:nan'],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Contingency.Cause.Result', 'Explicit:Expansion.Conjunction']"
+starshade.S35.Q5,starshade,1965,Now what?,"[1846, 1883]","We don't move further, all we see is the sun","[1975.0, 2018.0]",3.0,['Implicit:Expansion.Conjunction'],[],"['AltLex:Hypophora', 'Implicit:Contingency.Cause.Reason', 'Implicit:Expansion.Conjunction']"
+starshade.S108.Q5,starshade,5537,what's the size?,"[5468, 5481]",,,1.0,"['EntRel:nan', 'AltLex:Temporal.Asynchronous.Precedence']",[],[]
+starshade.S112.Q5,starshade,5652,what does deploying it do?,"[5634, 5650]",the petals rotate into place and unfurl.,"[5658.0, 5690.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+starshade.S97.Q5,starshade,5212,what's going to move?,"[5088, 5092]",,,1.0,['NoRel:nan'],[],[]
+starshade.S55.Q4,starshade,3008,Did you not know that we are not supposed to look at the eclipse without protection for our eyes?,"[2991, 3006]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+starshade.S57.Q4,starshade,3062,Who are you talking about?,"[3014, 3021]",,,1.0,[],[],[]
+starshade.S59.Q4,starshade,3249,Why is the dim part so important?,"[3235, 3247]",The dim part would be the shadow where the telescope would be placed.,"[3468.0, 3489.0]",5.0,[],[],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S61.Q4,starshade,3325,What would this achieve?,"[3304, 3323]",The shadow or dim part would serve for the telescope to be placed there in order for us to see planets.,"[3444.0, 3489.0]",5.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Implicit:Temporal.Asynchronous.Precedence']"
+starshade.S78.Q5,starshade,4239,What are you trying to see by controlling diffraction?,"[4063, 4082]",Planets,"[4448.0, 4459.0]",5.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S85.Q5,starshade,4378,What purpose does the shadow serve?,"[4350, 4376]",Dimmer shadow means planets stand out,"[4437.0, 4468.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+starshade.S87.Q5,starshade,4534,What size are the planets normally?,"[4512, 4532]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+starshade.S89.Q5,starshade,4728,What is the size of the starshade?,"[4539, 4591]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+starshade.S91.Q5,starshade,4910,Where does it go after the hub?,"[4878, 4908]",Separates from the telescope,"[4913.0, 4941.0]",4.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence']
+starshade.S46.Q4,starshade,2764,What is the technology that you are talking about?,"[2499, 2514]",,,1.0,['EntRel:nan'],[],[]
+starshade.S53.Q4,starshade,2828,How did the eclipse inspire him?,"[2779, 2786]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]

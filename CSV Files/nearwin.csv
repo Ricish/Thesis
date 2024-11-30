@@ -1,0 +1,594 @@
+id,source_id,source_cutoff,question_text,trigger_span,answer_text,answer_span,answer_score,snippet_has_arg1_of,trigger_has_arg1_of,answer_has_arg2_of
+nearwin.S136.Q1,nearwin,9424,Was Elizabeth Murray a painter?,"[9320, 9372]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S138.Q1,nearwin,9553,What would you consider complete?,"[9498, 9518]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S13.Q1,nearwin,958,Why did the authors view about success and creativity change?,"[817, 858]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],[]
+nearwin.S33.Q1,nearwin,2408,What was she throwing?,"[2285, 2306]",she is an archer (using a bow and arrow),"[2555.0, 2562.0]",5.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],['Implicit:Expansion.Conjunction']
+nearwin.S38.Q1,nearwin,2516,What activity was she doing?,"[2451, 2484]","at the end of practice, one of the archers...","[2555.0, 2562.0]",5.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S1.Q1,nearwin,177,Why does the author feel fortunate about that being their first job,"[51, 88]",The author learned a lot from the person they worked with,"[177.0, 203.0]",3.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason']
+nearwin.S5.Q1,nearwin,344,Why did the author love looking at paintings from the 1970's? ,"[295, 342]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S7.Q1,nearwin,485,What did the painter think of her early works?,"[446, 483]",The painter didn't think they exactly what she wanted them to be ,"[582.0, 612.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S9.Q1,nearwin,645,what did she want them to be?,"[617, 643]",,,1.0,['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation'],[]
+nearwin.S11.Q1,nearwin,801,which painting did the neighbor take out of the trash,"[748, 789]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S46.Q1,nearwin,3314,What is excellence then?,"[3262, 3304]",,,1.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],[]
+nearwin.S53.Q1,nearwin,3497,But what's the point of the constant pursuit if you're not committed to some sort of goal,"[3470, 3495]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S55.Q1,nearwin,3712,Isn't this just because difference people can place different values on things?,"[3658, 3710]",,,1.0,[],[],[]
+nearwin.S57.Q1,nearwin,3855,What was her admission?,"[3812, 3853]",,,1.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],[]
+nearwin.S59.Q1,nearwin,4109,Why did he only sign 10 percent of his paintings?,"[4068, 4107]",Perhaps he wasn't satisfied with his works even when other people were,"[4246.0, 4306.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S19.Q1,nearwin,1070,what gets us to convert success into mastery?,"[981, 1026]","The author thinks that it happens when ""we"" start to see the value of almost getting it right","[1092.0, 1132.0]",4.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S29.Q1,nearwin,2107,Did the archer hit the ten ring?,"[2063, 2105]",twice,"[2346.0, 2354.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S35.Q1,nearwin,2285,Did the archer hit the tiny ring?,"[2159, 2193]",twice,"[2346.0, 2354.0]",5.0,['NoRel:nan'],[],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S110.Q1,nearwin,8014,What do you know?,"[7971, 8012]",We thrive when we focus on our successful products,"[8027.0, 8073.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S117.Q1,nearwin,8255,What do the Navajo have to do with anything?,"[8149, 8163]",Gives companies a way out but also a reason to keep working,"[8322.0, 8359.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S119.Q1,nearwin,8404,What else does it do?,"[8370, 8402]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S121.Q1,nearwin,8479,Why are masters experts?,"[8436, 8477]",Masters are experts because they realize there is no end,"[8508.0, 8536.0]",4.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S123.Q1,nearwin,8538,What comes afterward?,"[8521, 8536]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S125.Q1,nearwin,8749,What does this story have to do with anything?,"[8703, 8747]",You keep building off ideas,"[9083.0, 9118.0]",3.0,[],[],['NoRel:nan']
+nearwin.S131.Q1,nearwin,9040,What does this story have to do with anything?,"[8974, 9023]",You must continue to build yourself,"[9083.0, 9118.0]",3.0,[],[],['NoRel:nan']
+nearwin.S134.Q1,nearwin,9190,What do you mean by former self?,"[9120, 9156]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S131.Q2,nearwin,9040,Why are there enough visualization techniques.,"[8770, 8801]",Unfinished paths require more.,"[9040.0, 9076.0]",3.0,[],[],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S125.Q2,nearwin,8749,Why did his coach tell him that?,"[8590, 8615]",Because they are not sufficient.,"[9077.0, 9082.0]",3.0,[],[],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S2.Q1,nearwin,205,Why did you learn?,"[177, 203]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S6.Q1,nearwin,424,Tll me about the motifs what are they? ,"[344, 379]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S78.Q1,nearwin,5588,So we should always strive for discovering new things?,"[5578, 5586]",,,2.0,[],[],[]
+nearwin.S85.Q1,nearwin,5802,How do we see this more clearly?,"[5729, 5754]",We would see it more clearly because of the Dunning-Kruger effect.,"[5818.0, 5839.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S20.Q1,nearwin,1134,What is the value of a near win?,"[1070, 1100]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S65.Q1,nearwin,4614,Why is it incomplete?,"[4572, 4585]",about the old testament on the sistene chapel.,"[4773.0, 4812.0]",3.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S70.Q1,nearwin,4814,Why did he implore that?,"[4736, 4757]",About mastery being reaching,"[4906.0, 4938.0]",3.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Expansion.Conjunction', 'NoRel:nan']"
+nearwin.S72.Q1,nearwin,4958,How is the mastery reaching?,"[4912, 4938]",it is about sacrificing your craft,"[5089.0, 5139.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['Implicit:Expansion.Conjunction', 'Explicit:Expansion.Conjunction', 'AltLex:Expansion.Substitution.Arg1-as-subst']"
+nearwin.S115.Q1,nearwin,8014,Should you trust your gut?,"[7982, 7996]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+nearwin.S74.Q1,nearwin,5141,How do you craft your career?,"[5119, 5139]",that the triumphs are the result of grand achievement,"[5333.0, 5366.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S76.Q1,nearwin,5368,What are the achievements,"[5349, 5366]",,,2.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],[]
+nearwin.S80.Q1,nearwin,5465,What is the leading edge,"[5443, 5463]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S84.Q1,nearwin,5626,How does he compose,"[5603, 5624]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S107.Q1,nearwin,7733,What was the high score before Jackie?,"[7681, 7731]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S109.Q1,nearwin,7927,How can we manufacture a near win?,"[7876, 7925]",,,2.0,[],[],[]
+nearwin.S8.Q1,nearwin,559,What was her response?,"[435, 483]",,,2.0,['EntRel:nan'],[],[]
+nearwin.S10.Q1,nearwin,774,"What was her mark, comments are to vague. ","[672, 695]",,,2.0,['Explicit:Contingency.Cause.Reason'],[],[]
+nearwin.S12.Q1,nearwin,860,"How did your veiw change, from what to what? ","[817, 858]",sucess is short term celebrate the creativity long term,"[901.0, 956.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['Implicit:Expansion.Level-of-detail.Arg2-as-detail', 'Explicit:Comparison.Concession.Arg2-as-denier']"
+nearwin.S16.Q1,nearwin,1027,why would you think success is a moment? ,"[876, 896]",almost winning is now the standard? Really? ,"[1104.0, 1132.0]",3.0,['EntRel:nan'],[],['Implicit:Expansion.Conjunction']
+nearwin.S73.Q1,nearwin,5051,Were any other artists reaching and never finding mastery?,"[4912, 4938]",Explorer Saunders supports the view of struggling to improve without merely succeeding.,"[5309.0, 5366.0]",4.0,['Implicit:Expansion.Conjunction'],[],['EntRel:nan']
+nearwin.S75.Q1,nearwin,5211,Doesn't this provide a slanted view since many people are very skilled and practical?,"[5051, 5094]",,,2.0,['EntRel:nan'],[],[]
+nearwin.S77.Q1,nearwin,5417,Is it mastery if you don't accomplish goals?,"[5393, 5415]",Pushing harder leads to higher skills and that is part of mastery.,"[5650.0, 5684.0]",4.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S87.Q1,nearwin,5953,How does Dunning-Kruger effect work?,"[5818, 5839]","A near win is more important then success, as it pushes us harder to reach the end goal, thus making us learn more in the process.","[6027.0, 6049.0]",4.0,['Explicit:Expansion.Conjunction'],[],"['NoRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S93.Q1,nearwin,6780,Can this near win phenomenon be applied to anything else?,"[6538, 6555]",,,2.0,['Explicit:Expansion.Conjunction'],[],[]
+nearwin.S99.Q1,nearwin,6964,How do we see our goals?,"[6953, 6962]",The near win phenomenon puts our goals closer to us. ,"[7000.0, 7028.0]",5.0,[],[],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+nearwin.S62.Q1,nearwin,4524,Who is this friend mentioned in the passage?,"[4416, 4426]",,,1.0,[],[],[]
+nearwin.S69.Q1,nearwin,4680,Is the editor or author of those works famous?,"[4524, 4563]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S71.Q1,nearwin,4912,Is there other symbolism in Michaelangelo's works?,"[4852, 4894]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S30.Q1,nearwin,2285,Did the archer hit the target?,"[1923, 1948]","Yes, she hit the target.","[2285.0, 2306.0]",5.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S37.Q1,nearwin,2486,Did she hit any more tens?,"[2451, 2484]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S39.Q1,nearwin,2626,Were all of the archers exhausted?,"[2544, 2575]",,,2.0,[],[],[]
+nearwin.S41.Q1,nearwin,2739,What did the archer do next?,"[2626, 2656]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S94.Q1,nearwin,6964,Are they addicted to playing?,"[6705, 6741]",,,1.0,[],[],[]
+nearwin.S101.Q1,nearwin,7157,"How would you describe a great day, tomorrow?","[7064, 7110]",A great day tomorrow will be described with more clarity and detail.,"[7225.0, 7269.0]",5.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast']
+nearwin.S103.Q1,nearwin,7305,Does a near win improve self esteem?,"[7283, 7303]",It improves drive and determination.,"[7614.0, 7661.0]",4.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],"['Implicit:Temporal.Asynchronous.Precedence', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S105.Q1,nearwin,7505,Did Jackie feel like a failure?,"[7404, 7460]",It made her feel more determined to succeed.,"[7542.0, 7574.0]",3.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']","['EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']"
+nearwin.S43.Q1,nearwin,3023,Why is it so rare in American culture?,"[2739, 2771]",It's very difficult so not many people reach that level.,"[3212.0, 3250.0]",3.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],"['EntRel:nan', 'Explicit:Comparison.Contrast', 'Explicit:Contingency.Condition.Arg2-as-cond']"
+nearwin.S45.Q1,nearwin,3144,How long did they stay for?,"[3023, 3035]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S51.Q1,nearwin,3314,What else besides excellence is involved with mastery?,"[3262, 3304]","Mastery is not just focused on achieving one thing, but trying to constantly improve yourself.","[3449.0, 3495.0]",4.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],"['Implicit:Expansion.Conjunction', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S17.Q1,nearwin,1134,How do we value the gift of a near win?,"[1092, 1132]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S22.Q1,nearwin,1335,What did you see the archers do?,"[1195, 1228]",He saw one eating ice cream while holding arrows and others saying numbers.,"[1612.0, 1656.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S24.Q1,nearwin,1608,Did you see the archer's paradox?,"[1335, 1381]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S26.Q1,nearwin,1848,Why were they speaking numbers?,"[1795, 1846]",They were saying the degree numbers they needed for positioning.,"[1848.0, 1877.0]",5.0,[],[],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S28.Q1,nearwin,2039,What did she do next?,"[1923, 1948]",Her next arrow missed the target.,"[2369.0, 2406.0]",5.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S32.Q1,nearwin,2220,Did the archer hit the ten ring?,"[2072, 2105]","The archer hit 7, 9 and then two tens.","[2301.0, 2349.0]",5.0,['Explicit:Expansion.Conjunction'],[],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S36.Q1,nearwin,2408,What did she do after she missed the target?,"[2380, 2406]",She kept practicing at her target for the next three hours.,"[2451.0, 2484.0]",5.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S70.Q2,nearwin,4814,How does mastery relate to not finishing things?,"[4654, 4678]","Mastery comes from trying for a goal, not reaching the goal.","[4912.0, 4956.0]",4.0,['Explicit:Expansion.Conjunction'],[],"['NoRel:nan', 'AltLex:Expansion.Substitution.Arg1-as-subst']"
+nearwin.S72.Q2,nearwin,4958,How does reaching help mastery?,"[4912, 4938]",Mastery comes from wanting to bridge a gap in your ability.,"[4988.0, 5002.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S74.Q2,nearwin,5141,Crafting your career is bad?,"[5099, 5139]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S76.Q2,nearwin,5368,What are Saunders' triumphs the result of?,"[5322, 5346]","The motivation he got from almost achieving his goals, but failing.","[5379.0, 5415.0]",5.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],"['EntRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S80.Q2,nearwin,5465,"What does the author mean by ""leading edge?""","[5451, 5463]",It might mean the things we will achieve in the future.,"[5563.0, 5586.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S84.Q2,nearwin,5626,"Are there more examples of this ""wisdom?""","[5465, 5478]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S65.Q2,nearwin,4614,Why did his friend refuse to honor his request?,"[4420, 4443]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S89.Q1,nearwin,6071,How is the near win related to increasing knowledge?,"[6056, 6069]",,,2.0,['AltLex:Expansion.Instantiation'],['AltLex:Expansion.Instantiation'],[]
+nearwin.S91.Q1,nearwin,6361,Why does this difference in frustration exist?,"[6132, 6200]","The broze medalist are just satisfied that they received any medal at all, whereas the silver medalists were more focused in the next competition.","[6484.0, 6514.0]",5.0,[],[],"['Implicit:Expansion.Instantiation', 'Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S125.Q3,nearwin,8749,What more could they do?,"[8703, 8732]",more techniques and drills,"[8777.0, 8820.0]",4.0,[],[],['EntRel:nan']
+nearwin.S110.Q2,nearwin,8014,what drives us to do more?,"[7775, 7804]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S117.Q2,nearwin,8255,what type of imperfections?,"[8196, 8228]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S119.Q2,nearwin,8404,do they come back to fix the flaw?,"[8291, 8306]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S121.Q2,nearwin,8479,Why are they masters?,"[8404, 8427]",They know there is no end,"[8503.0, 8536.0]",5.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S123.Q2,nearwin,8538,How do they work towards the end?,"[8503, 8536]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S105.Q2,nearwin,7505,Do near wins make people more determined to try again?,"[7348, 7397]",A near win made Jackie Joyner-Kersee compete harder and set a record for the heptathlon at the next Olympics.,"[7649.0, 7677.0]",3.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']",[],"['Implicit:Temporal.Asynchronous.Precedence', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S94.Q2,nearwin,6964,Who or what made the gambling industry stop selling near win scratch off tickets?,"[6798, 6840]",,,1.0,[],[],[]
+nearwin.S101.Q2,nearwin,7157,Does something that seems close seem more attainable?,"[6973, 7028]",We can imagine something that is closer more clearly.,"[7242.0, 7269.0]",4.0,['Explicit:Comparison.Contrast'],[],['Explicit:Comparison.Contrast']
+nearwin.S103.Q2,nearwin,7305,Does a near win really compel people to buy more tickets just because the win seemed so close?,"[7275, 7303]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+nearwin.S107.Q2,nearwin,7733,So Olympians and gamblers are similar when it comes to how they deal with near wins?,"[7542, 7599]",We thrive when we still have to compete to win rather than when we've already won.,"[7733.0, 7769.0]",5.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S109.Q2,nearwin,7927,How could you manufacture a near win at a conference?,"[7890, 7925]",,,1.0,[],[],[]
+nearwin.S115.Q2,nearwin,8014,"Is there any research that backs this up, rather than just gut level reasoning?","[7982, 8012]",The study of Navajo crafts people who put imperfections in their work.,"[8190.0, 8253.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Instantiation']
+nearwin.S53.Q2,nearwin,3497,Why does mastery take so much time?,"[3449, 3495]",Masterpieces take time to determine and opinions are often subjective,"[3668.0, 3710.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['Implicit:Expansion.Instantiation', 'Explicit:Temporal.Synchronous']"
+nearwin.S55.Q2,nearwin,3712,Why is a near win more exciting than success?,"[3537, 3581]",Flaws make works of art more interesting,"[3712.0, 3747.0]",4.0,[],[],"['Implicit:Expansion.Instantiation', 'Explicit:Temporal.Synchronous']"
+nearwin.S129.Q1,nearwin,9083,Is this the coach of the archer team?,"[8663, 8674]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S134.Q2,nearwin,9190,Are we building a team?,"[9083, 9091]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S59.Q2,nearwin,4109,Why didn't paul revisit his paintings?,"[3968, 4011]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S61.Q1,nearwin,4354,Why did Franz Kafka not value other people's opinions,"[4234, 4262]",,,1.0,[],[],[]
+nearwin.S67.Q1,nearwin,4524,Why did Franz Kafka's friend ignore his advice?,"[4420, 4455]",,,1.0,[],[],[]
+nearwin.S46.Q2,nearwin,3314,Are mastery and success the same concept?,"[3104, 3142]",They are not the same. Mastery is a constant pursuit,"[3314.0, 3342.0]",4.0,['Implicit:Comparison.Similarity'],[],['Implicit:Comparison.Similarity']
+nearwin.S57.Q2,nearwin,3855,Why does Elizabeth not value her paintings as much as her audience?,"[3794, 3825]",She thought they were incomplete and flawed,"[3879.0, 3918.0]",3.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity']
+nearwin.S131.Q3,nearwin,9040,how did that make you feel?,"[8921, 8941]",,,1.0,[],[],[]
+nearwin.S81.Q1,nearwin,5626,what is the reason for somebody to compose something he likes,"[5588, 5625]",he has love for it ,"[5783.0, 5800.0]",4.0,['NoRel:nan'],['NoRel:nan'],"['NoRel:nan', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S86.Q1,nearwin,5841,who knows who will be there by then,"[5818, 5840]",everything is unnkown,"[5966.0, 5998.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Conjunction']"
+nearwin.S88.Q1,nearwin,5999,how do you call a person who pretends to know more,"[5966, 5996]",it was mind teasing,"[6443.0, 6457.0]",5.0,['NoRel:nan'],['NoRel:nan'],"['Implicit:Expansion.Instantiation', 'AltLex:Contingency.Cause.Result', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S90.Q1,nearwin,6222,what is the simplest way to tell a person you a damn looser?,"[6155, 6200]",play around with it,"[6660.0, 6679.0]",5.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+nearwin.S92.Q1,nearwin,6516,how easy is it to get what you don't deserve,"[6484, 6502]",it is either yes or no as it is in coins,"[6516.0, 6537.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S96.Q1,nearwin,6855,what are the functions of of a laver,"[6789, 6815]",things that make life more easier,"[6973.0, 6998.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+nearwin.S100.Q1,nearwin,7048,better off,"[6918, 6926]",what is it good abuot it,"[7116.0, 7130.0]",5.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S136.Q2,nearwin,9424,Is Elizabeth Murray a painter?,"[9357, 9397]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S138.Q2,nearwin,9553,What would a utopia look like?,"[9429, 9450]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S1.Q2,nearwin,177,What did her retrospective consist of?,"[134, 175]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S5.Q2,nearwin,344,What type of things did she paint?,"[295, 342]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S7.Q2,nearwin,485,What was her opinion on her early works?,"[435, 483]",She thought they were below her standards.,"[595.0, 632.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S107.Q3,nearwin,7733,Do most people get these kinds of results from addressing their mountains?,"[7610, 7644]",It is at least implied that people achieve greater results through the mentality of near-wins.,"[7931.0, 7961.0]",3.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S109.Q3,nearwin,7927,How can we reproduce these results?,"[7876, 7925]",We listen to our guts.,"[7979.0, 8012.0]",3.0,[],[],"['NoRel:nan', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S115.Q3,nearwin,8014,How can my life play this out?,"[7931, 7961]","My life can play it out by accomplishing things in a near-complete way, giving me something higher and higher to aim toward.","[8027.0, 8073.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S94.Q3,nearwin,6964,How does it change our view of the landscape?,"[6907, 6943]",Our goals seem closer to us through near-wins.,"[7000.0, 7046.0]",5.0,[],[],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+nearwin.S101.Q3,nearwin,7157,What are these more general terms?,"[7112, 7155]",,,1.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],[]
+nearwin.S103.Q3,nearwin,7305,What are the downsides to the near-win mentality?,"[7271, 7303]",,,2.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+nearwin.S105.Q3,nearwin,7505,Is the addressing positive overall or negative?,"[7348, 7383]","It implies that the addressing of the mountain is positive, but we also know that there were abuses of near-wins.","[7610.0, 7626.0]",3.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']",[],['Implicit:Temporal.Asynchronous.Precedence']
+nearwin.S9.Q2,nearwin,645,What were her favorite works of her's?,"[582, 612]",,,1.0,['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation'],[]
+nearwin.S11.Q2,nearwin,801,How much was the painting worth?,"[752, 799]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S13.Q2,nearwin,958,How did this change how you went about being creative?,"[817, 858]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],[]
+nearwin.S19.Q2,nearwin,1070,How do we turn success in to mastery?,"[981, 1026]",It is when we get close to accomplishing something that we begin to try harder.,"[1095.0, 1132.0]",3.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S30.Q2,nearwin,2285,How would he coach offer support?,"[1985, 2020]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S37.Q2,nearwin,2486,How many times did she go after it?,"[2451, 2484]",She kept at it for three hours.,"[2486.0, 2501.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S129.Q2,nearwin,9083,Will he continue?,"[9061, 9081]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S134.Q3,nearwin,9190,Will he succeed?,"[9086, 9095]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S136.Q3,nearwin,9424,Will he get what he wanted?,"[9206, 9233]",he still has the incomplete,"[9477.0, 9496.0]",3.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S138.Q3,nearwin,9553,How long will it go on?,"[9544, 9551]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S25.Q1,nearwin,1703,Are you suggesting that it's because they were relaxed that they were successful? Or are they relaxed because they're masters? ,"[1585, 1606]",,,1.0,['Explicit:Expansion.Conjunction'],[],[]
+nearwin.S27.Q1,nearwin,1923,And did this give you a better idea of why they are successful?,"[1868, 1921]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+nearwin.S29.Q2,nearwin,2107,And were they all successful in hitting the ten ring?,"[2072, 2105]",At least one archer was successful.,"[2337.0, 2354.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S35.Q2,nearwin,2285,What is the definition of draw weight?,"[2249, 2270]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S21.Q1,nearwin,1263,What was so special about what these archers did?,"[1095, 1132]",It seems that part of it is that you don't always aim directly at your target if you want to shoot for success.,"[1447.0, 1485.0]",3.0,[],[],['EntRel:nan']
+nearwin.S23.Q1,nearwin,1487,What does this have to do with converting success into mastery?,"[1358, 1381]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S30.Q3,nearwin,2285,did the archer hit the ten ring target?,"[2080, 2105]",she hit the 7 ring on the target,"[2285.0, 2306.0]",5.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S37.Q3,nearwin,2486,how did she do overall?,"[2451, 2484]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S39.Q2,nearwin,2626,how did they practice?,"[2516, 2542]",they practiced for three hours,"[2941.0, 2977.0]",5.0,[],[],"['NoRel:nan', 'Explicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S41.Q2,nearwin,2739,was she a fan of T.S. Eliot?,"[2678, 2688]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S43.Q2,nearwin,3023,Why is it so rare in American culture to practice so hard?,"[2744, 2771]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S45.Q2,nearwin,3144,why is it so rare to see that difference between success and mastery?,"[3099, 3142]",mastery is doing it over and over again - success can be just doing it once,"[3147.0, 3179.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S51.Q2,nearwin,3314,why is mastery not the same as excellence?,"[3262, 3304]",Mastery is a serious pursuit and not a one time thing,"[3432.0, 3469.0]",5.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],['Implicit:Expansion.Conjunction']
+nearwin.S51.Q3,nearwin,3314,Why is mastery not the same as excellence?,"[3262, 3304]",,,2.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],[]
+nearwin.S39.Q3,nearwin,2626,What does star-fished mean?,"[2613, 2624]",,,2.0,[],[],[]
+nearwin.S41.Q3,nearwin,2739,What did TS Eliot mean by that still point of the turning world?,"[2700, 2737]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S43.Q3,nearwin,3023,Why is it so rare in American culture?,"[2744, 2771]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S45.Q3,nearwin,3144,What is the difference between success and mastery?,"[3099, 3142]","Success is achieving something, mastery is being able to achieve it time after time.","[3239.0, 3260.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Comparison.Contrast', 'Explicit:Contingency.Condition.Arg2-as-cond']"
+nearwin.S78.Q2,nearwin,5588,What was his favorite song?,"[5523, 5540]",His favorite song always had yet not compose.,"[5603.0, 5624.0]",4.0,[],[],['EntRel:nan']
+nearwin.S122.Q1,nearwin,8495,What contrasts with a conceptual end?,"[8441, 8477]",there is no conceptual end,"[8503.0, 8536.0]",5.0,['Explicit:Contingency.Cause.Reason'],[],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S124.Q1,nearwin,8645,What did the archery coach say?,"[8594, 8615]",they can't do enough,"[8703.0, 8747.0]",4.0,[],[],['EntRel:nan']
+nearwin.S128.Q1,nearwin,8869,Why do they coach?,"[8703, 8732]",eternal struggle,"[9029.0, 9081.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S33.Q2,nearwin,2408,How  many rings is going to hit the ten rings?,"[2063, 2075]",Every one ,"[2469.0, 2484.0]",4.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S38.Q2,nearwin,2516,For how many hours do you see her tenacity ,"[2486, 2514]",Three hours,"[2630.0, 2656.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S40.Q1,nearwin,2683,Why is he looking up the sky?,"[2658, 2681]",Try to find the T.S,"[2739.0, 2771.0]",4.0,[],[],['NoRel:nan']
+nearwin.S14.Q1,nearwin,1070,What exactly caused you to change your view?,"[817, 858]",The moment happened when they watched a team of all-female archers.,"[1198.0, 1239.0]",4.0,['Implicit:Expansion.Conjunction'],[],"['EntRel:nan', 'Explicit:Temporal.Synchronous']"
+nearwin.S89.Q2,nearwin,6071,Is success really gives us ongoing quest?,"[6040, 6069]",Comparing Olympic silver medalists and bronze medalists is a success to motivate an ongoing quest.,"[6155.0, 6220.0]",5.0,['AltLex:Expansion.Instantiation'],['AltLex:Expansion.Instantiation'],['AltLex:Expansion.Instantiation']
+nearwin.S91.Q2,nearwin,6361,How frustrated?,"[6292, 6359]",A little bit of happiness after the competition.,"[6361.0, 6395.0]",5.0,[],[],"['Implicit:Expansion.Instantiation', 'AltLex:Contingency.Cause.Result']"
+nearwin.S132.Q1,nearwin,9083,Is it good to always require more?,"[9061, 9081]",that's what mastery is about,"[9158.0, 9188.0]",4.0,['NoRel:nan'],['NoRel:nan'],['Implicit:Contingency.Cause.Reason']
+nearwin.S120.Q1,nearwin,8428,Why are masters not experts?,"[8404, 8427]",they realize there is no conceptual end,"[8503.0, 8536.0]",4.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S93.Q2,nearwin,6780,What motivate them to buy more tickets?,"[6725, 6778]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S99.Q2,nearwin,6964,How does that relevant putting goals and change our view altogether?,"[6910, 6962]",We tend to separate them at distance.,"[6964.0, 6998.0]",4.0,[],[],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+nearwin.S85.Q2,nearwin,5802,What examples we don't know of?,"[5760, 5800]",It's Dunning-Kruger effect.,"[5802.0, 5840.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S87.Q2,nearwin,5953,How can we do with knowledge?,"[5907, 5951]",Gotta learn just a bit ,"[5966.0, 5998.0]",3.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['EntRel:nan', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Conjunction']"
+nearwin.S128.Q2,nearwin,8869,Does anybody become an expert and overcome the feeling of not being 100% great in what they do?,"[8703, 8732]",Apparently experts do not exist as you can always become better at what you do so being a master is the ultimate. ,"[9040.0, 9081.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S132.Q2,nearwin,9083,Does the writer of this paragraph feel more confident and like a master now?,"[8971, 8983]",The write insinuates that they do in fact see their self as a master.,"[9158.0, 9188.0]",4.0,['NoRel:nan'],['NoRel:nan'],['Implicit:Contingency.Cause.Reason']
+nearwin.S90.Q2,nearwin,6222,What is the difference between a silver and bronze medalist after a competition?,"[6132, 6200]","Bronze medalists are just happy to have won a medal at all, while silver medalists think more about the next competition.","[6465.0, 6514.0]",5.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],"['Implicit:Expansion.Instantiation', 'Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S92.Q2,nearwin,6516,Do more silver medalists go on to win gold than bronze medalists?,"[6465, 6514]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S96.Q2,nearwin,6855,Does the gambling industry still do this?,"[6538, 6594]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S100.Q2,nearwin,7048,Do near winners go on to win more often than non-near winners?,"[6870, 6895]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S30.Q4,nearwin,2285,How long has she been doing archery to have that amount of strength? She sounds very proficient.,"[2232, 2283]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S37.Q4,nearwin,2486,How long did she keep at it?,"[2451, 2484]",She kept at it for three hours.,"[2486.0, 2515.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S39.Q4,nearwin,2626,"She must've put in a lot of effort, huh?","[2581, 2624]",,,2.0,[],[],[]
+nearwin.S110.Q3,nearwin,8014,What type of win?,"[7904, 7912]",leading edge,"[8057.0, 8073.0]",5.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S117.Q3,nearwin,8255,why would they put imperfections in textiles?,"[8216, 8253]",called a spirit line,"[8276.0, 8287.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S41.Q4,nearwin,2739,What kind of books did they write?,"[2658, 2699]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S43.Q4,nearwin,3023,Why do you think that is?,"[2773, 2825]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S45.Q4,nearwin,3144,Did it move you in a meaningful way?,"[3023, 3071]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S51.Q4,nearwin,3314,What is the subtle difference?,"[3262, 3304]","Mastery is not a commitment to a goal, but a constant pursuit.","[3443.0, 3469.0]",4.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],['Implicit:Expansion.Conjunction']
+nearwin.S119.Q3,nearwin,8404,is weaving a bad job?,"[8334, 8340]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S121.Q3,nearwin,8479,what is a conceptual end?,"[8463, 8477]",,,1.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst'],[]
+nearwin.S123.Q3,nearwin,8538,What is a master?,"[8487, 8494]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S125.Q4,nearwin,8749,Why tell them out of earshot?,"[8645, 8674]",not enouigh techniques,"[8749.0, 8801.0]",5.0,[],[],['EntRel:nan']
+nearwin.S131.Q4,nearwin,9040,He is giving himself to what?,"[9004, 9026]",unfinished path,"[9040.0, 9081.0]",5.0,[],[],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S81.Q2,nearwin,5626,How can we stay at our own leading edge?,"[5427, 5463]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S86.Q2,nearwin,5841,How does the Dunning-Kruger effect help?,"[5818, 5839]",It can lead you to learn/do/know more.,"[6027.0, 6069.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S88.Q2,nearwin,5999,How does learning that you don't know much help you?,"[5966, 5996]","A near win, or not knowing everything you thought you did, can make you want to know/learn more.","[6027.0, 6069.0]",4.0,['NoRel:nan'],['NoRel:nan'],"['NoRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S113.Q1,nearwin,8146,What creation myth has the deliberate incomplete?,"[8088, 8144]",Navajo spirit line,"[8274.0, 8306.0]",3.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],['EntRel:nan']
+nearwin.S118.Q1,nearwin,8361,Why do the creators want a way out?,"[8325, 8359]",to keep working,"[8370.0, 8402.0]",5.0,"['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']","['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']","['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']"
+nearwin.S42.Q1,nearwin,2896,Why culture is there little thats vocation about any more ,"[2827, 2859]",American culture ,"[2919.0, 2952.0]",4.0,[],[],['NoRel:nan']
+nearwin.S44.Q1,nearwin,3036,Why do you have to align you body for three hours ,"[2990, 3021]",I did that in order to hit the target ,"[3181.0, 3225.0]",4.0,['Explicit:Contingency.Cause.Reason'],[],"['EntRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S48.Q1,nearwin,3262,How many rings is success hitting ?,"[3144, 3179]",Its hitting ten rings ,"[3262.0, 3304.0]",4.0,['Explicit:Expansion.Level-of-detail.Arg2-as-detail'],[],['Explicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S113.Q2,nearwin,8146,"What room are you in, or what do you mean?","[7902, 7925]",,,1.0,['Implicit:Expansion.Instantiation'],[],[]
+nearwin.S118.Q2,nearwin,8361,Do the Navajo think that the passion they put into creating things gets that creative energy stuck in what they create and may cause issues losing that creativity in their work if they DON'T make a spirit line?,"[8322, 8359]",A spirit line is made so that they have a reson to continue making work so I was right in thinking that this is why a spirit line is made.,"[8370.0, 8402.0]",4.0,"['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']","['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']","['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']"
+nearwin.S120.Q2,nearwin,8428,What makes someone an expert then?,"[8404, 8427]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S37.Q5,nearwin,2486,Did she finally hit the target?,"[2451, 2484]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S39.Q5,nearwin,2626,Are they practicing again tomorrow?,"[2516, 2542]",,,1.0,[],[],[]
+nearwin.S41.Q5,nearwin,2739,How were the other archers?,"[2626, 2656]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S43.Q5,nearwin,3023,What is good about American culture?,"[2739, 2771]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S45.Q5,nearwin,3144,Did you try your hand at archery?,"[3055, 3097]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S51.Q5,nearwin,3314,What is mastery?,"[3262, 3312]",mastery is constantly pursuing a goal or success,"[3479.0, 3495.0]",4.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],['Explicit:Expansion.Substitution.Arg2-as-subst']
+nearwin.S122.Q2,nearwin,8495,Is being a master at something better than being an expert?,"[8479, 8494]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S124.Q2,nearwin,8645,Does the archery coach consider their self a master?,"[8586, 8615]",the coach believes a path is always unfinished and requires more to be even better considering themselves a master at archery.,"[9040.0, 9081.0]",5.0,[],[],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S16.Q2,nearwin,1027,What converts success into mastery?,"[981, 1026]",Almost being successful turns it into mastery,"[1092.0, 1132.0]",3.0,['EntRel:nan'],['EntRel:nan'],['Implicit:Expansion.Conjunction']
+nearwin.S20.Q2,nearwin,1134,anything else?,"[1092, 1132]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S2.Q2,nearwin,205,What did you learn exactly?,"[177, 203]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S10.Q2,nearwin,774,The neighbor stole it?,"[748, 773]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S12.Q2,nearwin,860,How much was it?,"[774, 799]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S124.Q3,nearwin,8645,What do you mean?,"[8613, 8643]",ways to win,"[8777.0, 8801.0]",3.0,[],[],['EntRel:nan']
+nearwin.S128.Q3,nearwin,8869,How does that apply in practical terms here?,"[8834, 8867]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S132.Q3,nearwin,9083,What is your unfinished path?,"[9040, 9055]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S30.Q5,nearwin,2285,Did she make the shot?,"[2026, 2037]",She made several bad hits.,"[2285.0, 2306.0]",5.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S52.Q1,nearwin,3432,What is as same as excellence ?,"[3314, 3342]",Mastery,"[3432.0, 3469.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S13.Q3,nearwin,958,Why is success just a 'moment'?,"[876, 895]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],[]
+nearwin.S6.Q2,nearwin,424,What type of elements?,"[360, 379]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S8.Q2,nearwin,559,What did she think about her early works?,"[435, 483]",She didn't think too highly of it,"[578.0, 612.0]",5.0,['EntRel:nan'],[],['EntRel:nan']
+nearwin.S113.Q3,nearwin,8146,What different ways?,"[7856, 7884]",Intentionally leave an imperfection,"[8291.0, 8306.0]",4.0,['Implicit:Expansion.Instantiation'],[],['EntRel:nan']
+nearwin.S118.Q3,nearwin,8361,A way out to what?,"[8334, 8359]",Continue making work,"[8382.0, 8402.0]",4.0,"['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']","['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']","['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']"
+nearwin.S120.Q3,nearwin,8428,What else do masters do?,"[8404, 8427]",Finish what they started,"[8441.0, 8477.0]",4.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['Implicit:Contingency.Cause.Reason', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S122.Q3,nearwin,8495,What else makes them masters?,"[8479, 8494]",They realize there are no endings,"[8503.0, 8536.0]",4.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S124.Q4,nearwin,8645,Told you what?,"[8586, 8615]",They can't do enough,"[8703.0, 8732.0]",5.0,[],[],['EntRel:nan']
+nearwin.S128.Q4,nearwin,8869,How to overcome this feeling?,"[8749, 8776]",Accepting imperfection,"[8989.0, 9038.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S132.Q4,nearwin,9083,How to accept this?,"[9040, 9081]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S113.Q4,nearwin,8146,How are the different ways?,"[7848, 7870]",,,2.0,['Implicit:Expansion.Instantiation'],[],[]
+nearwin.S118.Q4,nearwin,8361,How does that apply here?,"[8325, 8359]",,,1.0,"['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']","['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']",[]
+nearwin.S120.Q4,nearwin,8428,Do you consider yourself a master?,"[8404, 8411]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S122.Q4,nearwin,8495,What's the conceptual end for you?,"[8463, 8477]",,,1.0,['Explicit:Contingency.Cause.Reason'],[],[]
+nearwin.S1.Q3,nearwin,177,Why do you admire Elizabeth Murray?,"[151, 175]",The author learned a lot from her.,"[177.0, 203.0]",4.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason']
+nearwin.S5.Q3,nearwin,344,Why did you specifically like her paintings from the 1970s?,"[295, 342]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S7.Q3,nearwin,485,What motifs and elements showed up again later in her work?,"[355, 404]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S9.Q3,nearwin,645,What made the early painting so different from later works?,"[485, 518]",,,1.0,['Explicit:Expansion.Instantiation'],[],[]
+nearwin.S11.Q3,nearwin,801,Why did she think the trashed painting wasn't good enough to keep?,"[697, 728]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S38.Q3,nearwin,2516,"What is ""she"" doing?","[2451, 2484]",Something with archery,"[2544.0, 2562.0]",4.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S19.Q3,nearwin,1070,Who decides someone has mastered an art?,"[997, 1026]",,,2.0,['Implicit:Expansion.Conjunction'],[],[]
+nearwin.S40.Q2,nearwin,2683,What/who is T.S.?,"[2665, 2681]","It was just cut off and should have been T.S. Eliot, the author.","[2683.0, 2688.0]",5.0,[],[],['Implicit:Expansion.Conjunction']
+nearwin.S33.Q3,nearwin,2408,"What is the ""ten ring""?","[2089, 2105]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],[]
+nearwin.S129.Q3,nearwin,9083,What type of team is being referenced?,"[8743, 8747]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S134.Q4,nearwin,9190,What is being mastered?,"[9166, 9188]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+nearwin.S136.Q4,nearwin,9424,Are we comparing art to a sport?,"[9355, 9397]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S72.Q3,nearwin,4958,Why is it good to strive to be perfect when it cannot be reached?,"[4912, 4956]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S74.Q3,nearwin,5141,Again why is this something worth pursuing?,"[5051, 5094]",Acheiving these near wins is better than not trying and keeps us heading in a positive direction.,"[5379.0, 5415.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S76.Q3,nearwin,5368,What else are Ben's triumphs for?,"[5309, 5366]",Having near wins makes of thrive and stay sharp.,"[5417.0, 5463.0]",4.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],['NoRel:nan']
+nearwin.S80.Q3,nearwin,5465,Are there any other reasons to pursue mastery?,"[5417, 5463]",Looking forward to what is to come is a source of happiness.,"[5527.0, 5582.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S84.Q3,nearwin,5626,Is there more wisdom to be learned from mastery?,"[5465, 5507]",As we keep learning we discover things we thought we knew we didn't know.,"[5742.0, 5777.0]",5.0,['NoRel:nan'],['NoRel:nan'],"['NoRel:nan', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S70.Q3,nearwin,4814,Is this pursuit of mastery a good or bad thing?,"[4680, 4733]",,,2.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S138.Q4,nearwin,9553,What is the ideal end?,"[9524, 9551]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S119.Q4,nearwin,8404,Why do they need a way out?,"[8325, 8359]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S42.Q2,nearwin,2896,"What the heck is meant by the ""still point of the turning world""?","[2705, 2737]",,,1.0,[],[],[]
+nearwin.S44.Q2,nearwin,3036,"Why is the person ""in obscurity""?","[3009, 3021]",,,1.0,['Explicit:Contingency.Cause.Reason'],[],[]
+nearwin.S48.Q2,nearwin,3262,Who is the author in relation to the person being discussed?,"[3044, 3097]",,,1.0,['Explicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S52.Q2,nearwin,3432,Why do you view success as a one time thing?,"[3344, 3367]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S110.Q4,nearwin,8014,What more is there to do?,"[7780, 7804]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S117.Q4,nearwin,8255,Why would people add a deliberate imperfection?,"[8196, 8253]",An excuse and reason to continue making work.,"[8370.0, 8402.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']"
+nearwin.S97.Q1,nearwin,7048,Why does it make people view it this way?,"[6899, 6926]",It makes it more precise.,"[7219.0, 7269.0]",4.0,['NoRel:nan'],['NoRel:nan'],['Explicit:Comparison.Contrast']
+nearwin.S65.Q3,nearwin,4614,Why was Franz Kafka so hard on himself?,"[4234, 4262]",It seems likely the pursuit of mastery and to never be perfect plauged him but I am not sure.,"[4614.0, 4671.0]",3.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S121.Q4,nearwin,8479,When are people experts?,"[8404, 8427]",They realize there isn't a conceptual end.,"[8503.0, 8536.0]",5.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S123.Q4,nearwin,8538,Why isn't there a conceptual end?,"[8521, 8536]",You can't give enough advice to overcome near wins and win every time.,"[8824.0, 8867.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S125.Q5,nearwin,8749,Why was this said out of earshot?,"[8645, 8674]",There aren't enough techniques to help them overcome constant near wins.,"[8824.0, 8867.0]",5.0,[],[],['EntRel:nan']
+nearwin.S1.Q4,nearwin,177,Does the author know a lot about are history?,"[93, 124]",The author seems to have but in time consuming artwork.,"[303.0, 310.0]",3.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],['EntRel:nan']
+nearwin.S5.Q4,nearwin,344,What did she do helping make the Elizabeth Murray exhibit?,"[236, 262]",,,2.0,['Implicit:Contingency.Cause.Reason'],[],[]
+nearwin.S7.Q4,nearwin,485,Did she work with Elizabeth Murray?,"[435, 441]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S9.Q4,nearwin,645,How many paintings did she paint over the years?,"[578, 581]",,,1.0,['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation'],[]
+nearwin.S11.Q4,nearwin,801,Is that painting found in the trash worth money now?,"[723, 728]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S13.Q4,nearwin,958,Does Elizabeth Still paint?,"[934, 956]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S19.Q4,nearwin,1070,Does this writer want to achieve mastery for herself?,"[1051, 1068]",,,2.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S102.Q1,nearwin,7271,Was this done on purpose so they would get more sales?,"[7157, 7197]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S104.Q1,nearwin,7399,Is it psychological?,"[7305, 7327]",It is because it makes you try harder,"[7542.0, 7574.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']"
+nearwin.S106.Q1,nearwin,7601,Why does it make us feel this way?,"[7513, 7530]",It makes you feel you still have more to do so you do better,"[7743.0, 7779.0]",4.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],"['NoRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S65.Q4,nearwin,4614,Why was Kafka so displeased with his own works?,"[4240, 4262]",He needed mastery,"[4629.0, 4678.0]",3.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S68.Q1,nearwin,4614,where is all his works today? ,"[4478, 4503]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S49.Q1,nearwin,3432,What is that label?,"[3391, 3430]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S54.Q1,nearwin,3583,what is a constant pursuit?,"[3479, 3495]",Riddle with difficulties and flaws a near win. ,"[3712.0, 3763.0]",3.0,['Implicit:Expansion.Instantiation'],[],"['Implicit:Expansion.Instantiation', 'Explicit:Temporal.Synchronous']"
+nearwin.S70.Q4,nearwin,4814,Why was Kafka so obsessed with mastery?,"[4680, 4692]",Partially answered by the Michelangelo quote,"[4818.0, 4842.0]",3.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['NoRel:nan', 'Explicit:Expansion.Conjunction']"
+nearwin.S72.Q4,nearwin,4958,Why was he reaching ?,"[4912, 4938]",He was constantly trying to close the gap,"[4966.0, 5002.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S74.Q4,nearwin,5141,How far toward mastery did he actually think he achieved?,"[5029, 5049]",,,2.0,['EntRel:nan'],[],[]
+nearwin.S76.Q4,nearwin,5368,What were his triumphs?,"[5309, 5343]",The goal is the journey.,"[5395.0, 5415.0]",4.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],"['EntRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S80.Q4,nearwin,5465,"How does one know when he is at ""the leading edge""?","[5417, 5426]",his favorite accomplishments are in the near future.,"[5567.0, 5586.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S84.Q4,nearwin,5626,Can you expound on this wisdom?,"[5472, 5478]",We see more clearly as we approach mastery.,"[5734.0, 5754.0]",4.0,['NoRel:nan'],['NoRel:nan'],"['NoRel:nan', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S81.Q3,nearwin,5626,What kind of music id Ellington make?,"[5595, 5624]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S86.Q3,nearwin,5841,What did he do to master this?,"[5666, 5684]",Sounds like maybe he studied,"[5966.0, 5996.0]",3.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Conjunction']"
+nearwin.S88.Q3,nearwin,5999,Were Baldwin and Ellington similar?,"[5841, 5885]","They both were successful once, leading to more successes.","[5999.0, 6019.0]",3.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S90.Q3,nearwin,6222,"So are people fueled by their first success, or attempt?","[6025, 6069]",The closer we get to winning the more motivated we are,"[6482.0, 6514.0]",4.0,['Implicit:Expansion.Instantiation'],[],"['Implicit:Expansion.Instantiation', 'Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S92.Q3,nearwin,6516,So are third and fourth place people less motivated?,"[6303, 6359]","They are less motivated because you seem farther from your goal, it seems less attainable.","[7000.0, 7046.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+nearwin.S96.Q3,nearwin,6855,Aren't gambling and and trying hard at something different?,"[6688, 6741]","Basically, we get the illusion that the odds have turned in our favor when we get close in gambling. This is so different than trying at something though","[6907.0, 6943.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason']"
+nearwin.S100.Q3,nearwin,7048,Does getting further from winning cause people to lose motivation?,"[6957, 6962]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S131.Q5,nearwin,9040,What type of voraciousness is he giving himself over to?,"[9004, 9038]",A neverending unfinished path.,"[9040.0, 9081.0]",5.0,[],[],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S56.Q1,nearwin,3777,What is a near win considered?,"[3765, 3776]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S58.Q1,nearwin,4013,what was Paul Cezannes purpose of leaving his paintings aside?,"[3933, 3962]",He was a protagonist who often though his works were incomplete. ,"[4197.0, 4208.0]",3.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+nearwin.S60.Q1,nearwin,4234,Why did he only sign 10 percent of his paintings?,"[4068, 4107]",Most were incomplete.,"[4246.0, 4262.0]",3.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S64.Q1,nearwin,4416,was all his work burned upon his death?,"[4393, 4414]",His friend refused to burn his work. ,"[4416.0, 4455.0]",5.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S35.Q3,nearwin,2285,How hard is it exactly to get into archery? ,"[2246, 2283]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S108.Q1,nearwin,7806,Does it make us want more?,"[7733, 7742]",not being our best makes us better,"[8092.0, 8144.0]",3.0,['NoRel:nan'],['NoRel:nan'],"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S112.Q1,nearwin,7963,Will different peoples play out differently?,"[7927, 7961]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S116.Q1,nearwin,8146,What happens when we finally reach our best?,"[8027, 8073]",,,1.0,['Implicit:Expansion.Instantiation'],[],[]
+nearwin.S21.Q2,nearwin,1263,What happened with the archers? ,"[1187, 1228]",,,1.0,[],[],[]
+nearwin.S23.Q2,nearwin,1487,Is it true you have to aim slightly askew? ,"[1435, 1485]",They have to aim with degrees? ,"[1815.0, 1855.0]",3.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S25.Q2,nearwin,1703,Why is the ice cream important,"[1608, 1656]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S27.Q2,nearwin,1923,Why would they size him up? How is he at all relevant? ,"[1734, 1754]",,,2.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+nearwin.S29.Q3,nearwin,2107,How will they hit the ten ring? ,"[2063, 2105]",Through pure tenacity. ,"[2408.0, 2445.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S14.Q2,nearwin,1070,What DOES convert success into mastery? ,"[981, 1026]","When we value a ""near win"" ","[1092.0, 1132.0]",5.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S62.Q2,nearwin,4524,What works do we have,"[4481, 4510]",Multiple named works,"[4524.0, 4564.0]",5.0,[],[],"['Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S69.Q2,nearwin,4680,Other pursuits of mastery,"[4618, 4636]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S71.Q2,nearwin,4912,Where is that quote from,"[4680, 4733]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S2.Q3,nearwin,205,What did you learn that helped benefit you?,"[177, 203]",They enjoyed the paintings of Elizabeth Murray.,"[385.0, 422.0]",4.0,['EntRel:nan'],['EntRel:nan'],['Implicit:Contingency.Cause.Reason']
+nearwin.S6.Q3,nearwin,424,What events came up that you saw as relate able?,"[385, 422]",The painter had a high standard for herself.,"[582.0, 612.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S73.Q2,nearwin,5051,How to close the gap,"[4988, 5002]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S75.Q2,nearwin,5211,Examples of people sacrificing for their craft,"[5141, 5210]","Triumphs aren't singular, they build off one another to a single thing","[5233.0, 5285.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S77.Q2,nearwin,5417,Other examples,"[5211, 5225]",Its better to always look ahead to the future,"[5417.0, 5464.0]",5.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S8.Q3,nearwin,559,What about her work stood out to you?,"[446, 483]","Murray held such a high standard for herself that she herself did not understand the value of her work, whereas everyone else did. ","[817.0, 858.0]",5.0,['EntRel:nan'],[],['Implicit:Contingency.Cause.Result']
+nearwin.S10.Q3,nearwin,774,What happened to the painting?,"[748, 773]","The neighbor took it because they saw the value in it, not what the painter saw in it. ","[774.0, 799.0]",4.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason']
+nearwin.S12.Q3,nearwin,860,What changed in a sense that you applied to your daily life?,"[817, 858]","They realized that success is how you personally take it, and that mastery is not something to chase. ","[981.0, 1026.0]",5.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Explicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S16.Q3,nearwin,1027,How does one bridge the gap and change thier mindset?,"[981, 1026]",Celebrating small successes and near successes is when you begin to elevate as successful in your own eyes.,"[1092.0, 1132.0]",5.0,['EntRel:nan'],['EntRel:nan'],['Implicit:Expansion.Conjunction']
+nearwin.S83.Q1,nearwin,5588,Other wisdom,"[5465, 5478]",,,1.0,[],[],[]
+nearwin.S20.Q3,nearwin,1134,How do we set those goals for us in order to achieve or nearly achieve them?,"[1092, 1132]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S83.Q2,nearwin,5588,How does the author feel about people who retire after big achievements?,"[5567, 5586]",,,1.0,[],[],[]
+nearwin.S55.Q3,nearwin,3712,What is an example of a classic that the creator considers unfinished?,"[3658, 3710]",Elizabeth Murray,"[3777.0, 3793.0]",5.0,[],[],['NoRel:nan']
+nearwin.S46.Q3,nearwin,3314,What is the difference between mastery and excellence?,"[3262, 3312]",,,1.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],[]
+nearwin.S53.Q3,nearwin,3497,What exactly is mastery?,"[3432, 3469]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S7.Q5,nearwin,485,I asked her what she thought of her early work.,"[424, 445]",She said that if you didn't quite meet her own standards.,"[559.0, 581.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S69.Q3,nearwin,4680,How far along does this book get? ,"[4551, 4585]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S71.Q3,nearwin,4912,Why does the author include this quote?,"[4876, 4910]","the author says that the journey is the main purpose, not the end. ","[4912.0, 4938.0]",5.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S77.Q3,nearwin,5417,Are there other examples of this? ,"[5379, 5415]","He gives musical artists who don't stop making music, and who crave new music like Duke Ellington, as an example. ","[5588.0, 5624.0]",4.0,['NoRel:nan'],['NoRel:nan'],['EntRel:nan']
+nearwin.S62.Q3,nearwin,4524,Why did he refuse to honor the request?,"[4416, 4455]",That there's still value in work in progress,"[4614.0, 4671.0]",3.0,[],[],['NoRel:nan']
+nearwin.S73.Q3,nearwin,5051,Why does the author feel this way?,"[4958, 5002]",The author believes that it's about sacrifice to become a real master of your craft.,"[5051.0, 5094.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S75.Q3,nearwin,5211,What actions make up the difference between sacrificing and crafting your career?,"[5119, 5139]",The author seems to think that a person really needs to put themselves out there to be a genius. ,"[5233.0, 5272.0]",3.0,['EntRel:nan'],[],['EntRel:nan']
+nearwin.S85.Q3,nearwin,5802,Are there more examples of near wins?,"[5654, 5662]",Dunning-Kruger effect,"[5818.0, 5839.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S57.Q3,nearwin,3855,What was one of Elizabeth's paintings?,"[3816, 3853]",,,1.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],[]
+nearwin.S59.Q3,nearwin,4109,How many of Paul's paintings are famous?,"[4064, 4107]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S61.Q2,nearwin,4354,What did Franz do with his diaries?,"[4308, 4352]",had them burned upon his death,"[4393.0, 4414.0]",5.0,[],[],"['NoRel:nan', 'AltLex:Contingency.Cause.Result']"
+nearwin.S67.Q2,nearwin,4524,Why didn't his friend burn the things he was asked to?,"[4416, 4455]",,,1.0,[],[],[]
+nearwin.S89.Q3,nearwin,6071,What are some important ongoing quests?,"[6040, 6069]",Olympics,"[6136.0, 6200.0]",5.0,['AltLex:Expansion.Instantiation'],['AltLex:Expansion.Instantiation'],['AltLex:Expansion.Instantiation']
+nearwin.S91.Q3,nearwin,6361,Are silver medalists more frustrated than bronze?,"[6303, 6359]",Yes silvers focus better on next time,"[6465.0, 6514.0]",5.0,[],[],"['Implicit:Expansion.Instantiation', 'Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S93.Q3,nearwin,6780,Are there other gambling examples of the near win?,"[6660, 6697]",,,2.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S78.Q3,nearwin,5588,Did anyone else share the philosophy of Saunders or Ellington?,"[5395, 5415]",James Baldwin,"[5872.0, 5885.0]",4.0,[],[],['EntRel:nan']
+nearwin.S9.Q5,nearwin,645,Were they what she wanted them to be?,"[617, 643]",Not all of them.,"[672.0, 695.0]",4.0,['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation']
+nearwin.S11.Q5,nearwin,801,She threw it out but her neighbor took it out of the trash.,"[748, 773]",Success and creativity didn't mean what I thought they did.,"[820.0, 858.0]",4.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result']
+nearwin.S13.Q5,nearwin,958,Success is brief but we always celebrate creativity.,"[876, 895]",I've always asked myself this.,"[981.0, 1026.0]",4.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],['Explicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S1.Q5,nearwin,177,What was my first job?,"[76, 88]",,,2.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S5.Q5,nearwin,344,How much did I learn from her?,"[177, 203]",Motives and elements would come up later in her life.,"[355.0, 379.0]",4.0,['Implicit:Contingency.Cause.Reason'],[],['Implicit:Contingency.Cause.Reason']
+nearwin.S87.Q3,nearwin,5953,What did Baldwin say increases with knowledge?,"[5907, 5951]",You learn how little you know,"[5966.0, 5996.0]",5.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['EntRel:nan', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Conjunction']"
+nearwin.S19.Q5,nearwin,1070,I'm still asking myself.,"[1046, 1068]",We value a gift that is near win.,"[1092.0, 1132.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S24.Q2,nearwin,1608,Why is he so interested in archers paradox?,"[1365, 1381]",,,2.0,['EntRel:nan'],[],[]
+nearwin.S26.Q2,nearwin,1848,Numbers? What kind of numbers,"[1839, 1846]",The degrees.,"[1848.0, 1855.0]",5.0,[],[],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S28.Q2,nearwin,2039,What positions do they use?,"[1868, 1877]",,,1.0,['Explicit:Expansion.Conjunction'],[],[]
+nearwin.S99.Q3,nearwin,6964,What do near wins do to goals?,"[6948, 6962]",Puts them closer,"[7005.0, 7028.0]",5.0,[],[],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+nearwin.S6.Q4,nearwin,424,What were some of these elements?,"[391, 422]",some of the works didn't meet her mark of approval,"[582.0, 612.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S8.Q4,nearwin,559,What made the early works so different?,"[446, 483]",the work wasn't up to her standards,"[675.0, 695.0]",3.0,['EntRel:nan'],[],['Explicit:Expansion.Instantiation']
+nearwin.S10.Q4,nearwin,774,What happened to the painting?,"[748, 773]",it became valuable to the new owner (neighbor),"[782.0, 799.0]",3.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason']
+nearwin.S12.Q4,nearwin,860,Is your work different today because of this experience?,"[817, 858]",work now involves asking questions about mastery,"[981.0, 1026.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Explicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S16.Q4,nearwin,1027,How do you define success or mastery?,"[860, 895]",success/mastery happens the moment we value the gift of a near win,"[1092.0, 1132.0]",5.0,['EntRel:nan'],[],['Implicit:Expansion.Conjunction']
+nearwin.S20.Q4,nearwin,1134,Have you reached success or mastery?,"[1046, 1068]",,,2.0,['EntRel:nan'],[],[]
+nearwin.S120.Q5,nearwin,8428,What's the proposal for bridging the mastery expert gap?,"[8404, 8427]",The importance of mastery doesn't derive from completing projects. ,"[8448.0, 8477.0]",3.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['Implicit:Contingency.Cause.Reason', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S122.Q5,nearwin,8495,What makes a master?,"[8479, 8494]","There is no such as a master which a ""master"" realizes. ","[8508.0, 8536.0]",5.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S124.Q5,nearwin,8645,What did his archery coach tell him?,"[8594, 8607]",The coach expressed frustration about the impossibility of teaching the team everything they needed to win. ,"[8703.0, 8747.0]",5.0,[],[],['EntRel:nan']
+nearwin.S128.Q5,nearwin,8869,What prompted this sort of feeling of hopelessness?,"[8749, 8776]",He wanted to express his recognition of being in a perpetual battle that require ever increasing resources. ,"[9040.0, 9081.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S32.Q2,nearwin,2220,That's impressive. It must take a lot of skill to hit that and i wonder how .long the girls have trained?,"[2179, 2218]",,,2.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S36.Q2,nearwin,2408,How could she be so accurate and then miss the next?,"[2356, 2406]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[]
+nearwin.S132.Q5,nearwin,9083,What was the narrator's reaction to his coach's revelation?,"[8930, 8941]",It inspired the narrator to build himself from the perpetual nature of being incomplete. ,"[9083.0, 9091.0]",5.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S17.Q2,nearwin,1134,Why do you think this?,"[1095, 1132]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S22.Q2,nearwin,1335,Why was he there to watch the archers?,"[1221, 1228]",He was there to observe archers paradox.,"[1365.0, 1381.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S113.Q5,nearwin,8146,What sort of wins is he talking about?,"[7909, 7912]",,,2.0,['Implicit:Expansion.Instantiation'],[],[]
+nearwin.S118.Q5,nearwin,8361,What does Navajo culture have to do with the matter at hand?,"[8149, 8155]",It's a parallel to his situation of working on imperfect initiatives. ,"[8382.0, 8402.0]",3.0,"['Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']",[],"['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier', 'Explicit:Expansion.Conjunction']"
+nearwin.S52.Q3,nearwin,3432,Who is the speaker and their relation to the event? ,"[3350, 3367]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S19.Q6,nearwin,1070,Did you ever find the answer to this question?,"[1027, 1068]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S1.Q6,nearwin,177,What was their job there?,"[93, 128]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S5.Q6,nearwin,344,What did they learn from her?,"[179, 203]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+nearwin.S2.Q4,nearwin,205,What type of paintings did she do?,"[134, 158]",motifs and elements of her life,"[360.0, 379.0]",3.0,['EntRel:nan'],[],['Implicit:Contingency.Cause.Reason']
+nearwin.S13.Q6,nearwin,958,How is it celebrated?,"[912, 957]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S19.Q7,nearwin,1070,How is success converted into mastery?,"[997, 1026]",Placing value on close victories.,"[1104.0, 1132.0]",3.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S94.Q4,nearwin,6964,Was the near win technique banned in Britain?,"[6798, 6840]",,,1.0,[],[],[]
+nearwin.S101.Q4,nearwin,7157,What does asking me about how I envision a great day have to do with gambling?,"[7064, 7095]",,,2.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],[]
+nearwin.S5.Q7,nearwin,344,What kind of style were her paintings>,"[272, 293]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+nearwin.S7.Q6,nearwin,485,What were some of her motifs?,"[350, 366]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S9.Q6,nearwin,645,Why didnt they meet her own mark?,"[582, 612]",,,1.0,['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation'],[]
+nearwin.S11.Q6,nearwin,801,What happned to the art that was put in the trash?,"[701, 742]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S115.Q4,nearwin,8014,What is the purpose of this motivational text?,"[7982, 8012]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+nearwin.S7.Q7,nearwin,485,What did she think of those works?,"[446, 483]",They didn't measure up to what she wanted of them.,"[578.0, 612.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S9.Q7,nearwin,645,What did she want them to be?,"[622, 644]",,,1.0,['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation'],[]
+nearwin.S11.Q7,nearwin,801,What was its value?,"[782, 800]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S89.Q4,nearwin,6071,How are we motivated by near wins?,"[6025, 6069]",Getting close to winning motivates us to perform better in future competitions,"[6482.0, 6514.0]",5.0,['AltLex:Expansion.Instantiation'],['AltLex:Expansion.Instantiation'],"['Implicit:Expansion.Instantiation', 'Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S91.Q4,nearwin,6361,Was it just frustration that motivated them?,"[6307, 6349]",,,2.0,[],[],[]
+nearwin.S44.Q3,nearwin,3036,Why did the person think about leaving? ,"[3023, 3035]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S48.Q3,nearwin,3262,Who is this person that decided to stay? ,"[3044, 3071]",,,1.0,['Explicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S1.Q7,nearwin,177,Where was the musuem?,"[108, 128]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S40.Q3,nearwin,2683,What is T.S.?,"[2678, 2681]",,,1.0,[],[],[]
+nearwin.S42.Q3,nearwin,2896,What is this whole section even about?,"[2683, 2737]",The endurance that archers undergo. ,"[2979.0, 3008.0]",3.0,[],[],['NoRel:nan']
+nearwin.S13.Q7,nearwin,958,What is your view of success?,"[817, 835]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],[]
+nearwin.S33.Q4,nearwin,2408,What type of archery game are they playing? ,"[2238, 2283]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],[]
+nearwin.S38.Q4,nearwin,2516,Is she competing or practicing? ,"[2451, 2484]",It was said that this was practice. ,"[2516.0, 2542.0]",5.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S78.Q4,nearwin,5588,What is it that you see?,"[5211, 5220]",that the near win is inbuilt to mastery,"[5650.0, 5684.0]",5.0,[],[],['NoRel:nan']
+nearwin.S85.Q4,nearwin,5802,What more is there to know?,"[5760, 5800]",That we are motivated by success but a near win can also push us forward.,"[5999.0, 6049.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S87.Q4,nearwin,5953,What did James Baldwin respond to that question?,"[5886, 5935]",He said you learn how little you know,"[5966.0, 5998.0]",5.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['EntRel:nan', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Conjunction']"
+nearwin.S88.Q4,nearwin,5999,How does gaining more knowledge make you realize that you need more knowledge?,"[5907, 5951]",Being near to having knowledge makes you want to seek it out,"[5999.0, 6049.0]",3.0,['NoRel:nan'],['NoRel:nan'],"['NoRel:nan', 'Explicit:Comparison.Contrast']"
+nearwin.S90.Q4,nearwin,6222,How does being closer instead of slightly further away from a goal change performance?,"[6136, 6200]",Silver medalists focus more on improving their performance in the future and trying for the gold next time.,"[6465.0, 6514.0]",4.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],"['Implicit:Expansion.Instantiation', 'Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S92.Q4,nearwin,6516,Is frustration for just missing a goal part of motivation to succeed?,"[6307, 6359]",Near wins seem to be a motivating force to continue a behavior,"[6660.0, 6697.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+nearwin.S81.Q4,nearwin,5626,Is the text implying that we should never be satisfied by what we have already accomplished?,"[5417, 5463]",Pushing yourself to reach the next goal promotes mastery of skill.,"[5654.0, 5684.0]",3.0,['NoRel:nan'],[],['NoRel:nan']
+nearwin.S93.Q4,nearwin,6780,What other industries does this apply to?,"[6519, 6555]",,,1.0,['Explicit:Expansion.Conjunction'],[],[]
+nearwin.S99.Q4,nearwin,6964,How does it effect our goals?,"[6910, 6962]",It put our goals closer to us when we have a near win.,"[7000.0, 7047.0]",5.0,[],[],"['EntRel:nan', 'AltLex:Contingency.Cause.Reason', 'Explicit:Expansion.Conjunction']"
+nearwin.S86.Q4,nearwin,5841,How exactly does the Dunning-Kruger effect apply to mastery?,"[5818, 5839]","When you realize where you are lacking knowledge, you know where your deficiencies are.","[5966.0, 5996.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Conjunction']"
+nearwin.S105.Q4,nearwin,7505,What is a heptathlon?,"[7468, 7478]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']",[]
+nearwin.S107.Q4,nearwin,7733,Was the competition held every 4 years?,"[7601, 7617]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S109.Q4,nearwin,7927,In what kind of room is this conversation being held?,"[7913, 7925]",,,1.0,[],[],[]
+nearwin.S103.Q4,nearwin,7305,How does a near win resemble being general vs clear?,"[7275, 7303]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[]
+nearwin.S17.Q3,nearwin,1134,How do we get over the disappointment of losing?,"[1104, 1132]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S22.Q3,nearwin,1335,Did the women lose?,"[1198, 1228]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S24.Q3,nearwin,1608,How long have these women practiced?,"[1563, 1606]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S26.Q3,nearwin,1848,Why did they speak in numbers?,"[1839, 1846]",They were discussing the way to aim their bow and arrow.,"[1882.0, 1921.0]",4.0,[],[],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S17.Q4,nearwin,1134,What value does a near win have?,"[1104, 1132]","In order to hit your target, you have to aim slightly away from it.","[1447.0, 1477.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S22.Q4,nearwin,1335,Why did you go to watch the archers?,"[1198, 1228]",They wanted to see the archer's paradox.,"[1365.0, 1381.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S96.Q4,nearwin,6855,How do near wins effect the brain and body?,"[6747, 6778]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S100.Q4,nearwin,7048,Do we believe we are more able to accomplish a goal when we get closer to doing so?,"[6910, 6943]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S28.Q3,nearwin,2039,Did she need support mentally or physically?,"[1991, 2020]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S32.Q3,nearwin,2220,Were the women able to hit their target?,"[2165, 2189]",She hit many points at many times. ,"[2285.0, 2307.0]",4.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],['NoRel:nan']
+nearwin.S36.Q3,nearwin,2408,Why didn't her last arrow hit?,"[2369, 2406]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[]
+nearwin.S14.Q3,nearwin,1070,Did you find an answer to your question?,"[1027, 1068]",They are piecing the answer together through learning and experiences.,"[1134.0, 1167.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['EntRel:nan']
+nearwin.S21.Q3,nearwin,1263,"What does ""the gift of a near win"" mean?","[1104, 1132]",,,2.0,[],[],[]
+nearwin.S23.Q3,nearwin,1487,Why do you have to aim off from the target?,"[1435, 1477]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S25.Q3,nearwin,1703,What did the women do next?,"[1563, 1606]",They passed the writer and smiled while sizing them up and talking.,"[1712.0, 1754.0]",5.0,['Explicit:Expansion.Conjunction'],[],"['Explicit:Expansion.Conjunction', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Synchronous', 'Explicit:Comparison.Concession.Arg2-as-denier']"
+nearwin.S27.Q3,nearwin,1923,Were the numbers actually degrees?,"[1839, 1877]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+nearwin.S29.Q4,nearwin,2107,Did the archer hit the target?,"[2080, 2105]",She hit different parts of the target with 4 arrows.,"[2289.0, 2335.0]",5.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S19.Q8,nearwin,1070,Have you found an answer?,"[1037, 1068]",When we near complete achievement.,"[1095.0, 1132.0]",5.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S54.Q2,nearwin,3583,"How do we get ourselves to master something, such in a way the author is describing.","[3497, 3520]",,,1.0,['Implicit:Expansion.Instantiation'],[],[]
+nearwin.S126.Q1,nearwin,9040,Why can't they make more visualization techniques?,"[8791, 8801]",,,1.0,[],[],[]
+nearwin.S56.Q2,nearwin,3777,"How many times, as described?","[3583, 3597]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S58.Q2,nearwin,4013,Why was the author surprised?,"[3794, 3853]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],[],[]
+nearwin.S60.Q2,nearwin,4234,Why had he only signed 10%?,"[4061, 4107]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S133.Q1,nearwin,9158,Why can't they do more? ,"[9061, 9081]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+nearwin.S135.Q1,nearwin,9292,Do they ever win? ,"[9238, 9280]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S137.Q1,nearwin,9498,Whose early paintings did she see? ,"[9361, 9397]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S26.Q4,nearwin,1848,How do you speak with numbers?,"[1795, 1846]",They were speaking about positions for how they could hit their targets.,"[1868.0, 1921.0]",3.0,[],[],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S28.Q4,nearwin,2039,What was the coach watching for?,"[2026, 2037]",He was watching to see how they would shoot.,"[2271.0, 2283.0]",4.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction']
+nearwin.S32.Q4,nearwin,2220,How talented were the archers?,"[2063, 2105]",They had some talent as shown by the scores.,"[2331.0, 2354.0]",3.0,['Explicit:Expansion.Conjunction'],[],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S36.Q4,nearwin,2408,Did she miss more than once?,"[2380, 2406]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']","['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[]
+nearwin.S24.Q4,nearwin,1608,Why do you think they seemed so focused?,"[1593, 1606]",They were well supported by their coach.,"[1991.0, 2020.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['Implicit:Temporal.Asynchronous.Precedence', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S25.Q4,nearwin,1703,What is a fletching?,"[1692, 1701]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S49.Q2,nearwin,3432,What caused this individual to compared mastery vs success (what event)?,"[3044, 3097]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+nearwin.S64.Q2,nearwin,4416,Were they burned?,"[4367, 4414]","They were not, his friend would not burn them.","[4416.0, 4455.0]",5.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S68.Q2,nearwin,4614,Why do people get so discouraged?,"[4565, 4612]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S14.Q4,nearwin,1070,How does success turn into mastery?,"[997, 1026]",,,2.0,['Implicit:Expansion.Conjunction'],[],[]
+nearwin.S21.Q4,nearwin,1263,Is varsity archers a sport?,"[1213, 1228]",,,2.0,[],[],[]
+nearwin.S23.Q4,nearwin,1487,What does skew mean?,"[1473, 1477]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S7.Q8,nearwin,485,Which motifs and elements recurred?,"[360, 379]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S9.Q8,nearwin,645,What were her expectations?,"[582, 612]",,,1.0,['Explicit:Expansion.Instantiation'],['Explicit:Expansion.Instantiation'],[]
+nearwin.S11.Q8,nearwin,801,What did Elizabeth Murray's neighbor see in this painting?,"[782, 799]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S13.Q8,nearwin,958,How are we always celebrating creativity and mastery?,"[912, 956]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S80.Q5,nearwin,5465,Do losses have any effect on thriving within the pursuit of mastery?,"[5379, 5415]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S84.Q5,nearwin,5626,What were some of Duke Ellington's notable works?,"[5493, 5507]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S64.Q3,nearwin,4416,How was he valuing them when wanting them destroyed?,"[4393, 4414]",,,1.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S35.Q4,nearwin,2285,How does someone hit something so small?,"[2165, 2193]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S1.Q8,nearwin,177,What did the retrospective teach you?,"[134, 175]",quite a bit,"[177.0, 194.0]",3.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason']
+nearwin.S5.Q8,nearwin,344,Which 1970's Elizabeth Murray's painting was your favorite?,"[297, 342]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S27.Q4,nearwin,1923,How did they size you up?,"[1743, 1754]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
+nearwin.S29.Q5,nearwin,2107,Did the coach give any instructions?,"[1956, 1961]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S35.Q5,nearwin,2285,Did any of them hit the ten ring?,"[2168, 2193]",She hit two tens.,"[2346.0, 2354.0]",5.0,['NoRel:nan'],[],"['NoRel:nan', 'Explicit:Expansion.Conjunction', 'Explicit:Temporal.Asynchronous.Precedence']"
+nearwin.S49.Q3,nearwin,3432,What is mastery?,"[3262, 3304]",The constant pursuit of a goal.,"[3449.0, 3495.0]",5.0,['Implicit:Expansion.Conjunction'],[],"['Implicit:Expansion.Conjunction', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S54.Q3,nearwin,3583,How do yo find value in a near win?,"[3560, 3581]",,,2.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],[]
+nearwin.S56.Q3,nearwin,3777,How is the creator finding value with something they are clearly unsatisfied with? ,"[3668, 3737]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S58.Q3,nearwin,4013,How are they valuing their near wins?,"[3933, 3962]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S60.Q3,nearwin,4234,Did he find value in the other ninety percent?,"[4068, 4107]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S76.Q5,nearwin,5368,What things did Ben Saunders do?,"[5257, 5285]",,,1.0,['Explicit:Comparison.Contrast'],[],[]
+nearwin.S68.Q3,nearwin,4614,How is this an example of valuing anything?,"[4416, 4443]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S65.Q5,nearwin,4614,Were there any other works saved?,"[4524, 4564]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S70.Q5,nearwin,4814,Is this the concept of pursuing mastery something that most artists experience?,"[4618, 4636]",,,1.0,['Explicit:Expansion.Conjunction'],[],[]
+nearwin.S72.Q5,nearwin,4958,Does anyone ever arrive at mastery?,"[4912, 4956]","It sort of seems like an ongoing concept, so it's not something you can arrive at.","[5068.0, 5079.0]",3.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S74.Q5,nearwin,5141,Why is crafting your career not under the effects of mastery?,"[5099, 5140]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S133.Q2,nearwin,9158,What does all this building lead to?,"[9083, 9118]",It leads to goal attainment.,"[9234.0, 9280.0]",4.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S53.Q4,nearwin,3497,are all constant pursuits mastery?,"[3479, 3495]","Mastery is when people see it as fantastic, but the creator can see flaws and wants to perfect it further","[3560.0, 3581.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Implicit:Expansion.Level-of-detail.Arg2-as-detail']"
+nearwin.S55.Q4,nearwin,3712,When does the creator stop tweaking something?,"[3668, 3710]",Some creators never stop working on a piece,"[3946.0, 3962.0]",4.0,[],[],['Implicit:Comparison.Similarity']
+nearwin.S62.Q4,nearwin,4524,What works do we have?,"[4498, 4503]","America, The Trial and The Castle","[4524.0, 4563.0]",3.0,[],[],"['Explicit:Expansion.Conjunction', 'AltLex:Contingency.Cause.Result']"
+nearwin.S69.Q4,nearwin,4680,What is the final sentence fragment of The Castle?,"[4594, 4612]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S71.Q4,nearwin,4912,Are you comparing Michelangelo to Kafka?,"[4736, 4748]",Both people made sacrifices for their art.,"[5051.0, 5094.0]",3.0,['NoRel:nan'],['NoRel:nan'],['Implicit:Expansion.Conjunction']
+nearwin.S73.Q4,nearwin,5051,Is mastery only about reaching?,"[4912, 4938]",Mastery involves sacrifice.,"[5051.0, 5094.0]",5.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S75.Q4,nearwin,5211,Do you have any specific individuals in mind?,"[5141, 5184]",Ben Saunders,"[5273.0, 5285.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S46.Q4,nearwin,3314,What is the difference between excellence and mastery?,"[3262, 3304]",Mastery is constantly trying to improve and be the best you can be,"[3432.0, 3469.0]",4.0,['Implicit:Comparison.Similarity'],['Implicit:Comparison.Similarity'],['Implicit:Expansion.Conjunction']
+nearwin.S77.Q4,nearwin,5417,Is Ben Saunders still alive?,"[5287, 5299]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S83.Q3,nearwin,5588,What are some other examples?,"[5417, 5419]",,,1.0,[],[],[]
+nearwin.S57.Q4,nearwin,3855,How does a creator know to stop working on a piece?,"[3725, 3747]",Some creators never stop working on a piece?,"[4061.0, 4107.0]",4.0,['Implicit:Comparison.Similarity'],[],['Explicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S59.Q4,nearwin,4109,Who decides what is a masterpiece?,"[3893, 3918]",The artist doesn't decide which of his works is a masterpiece,"[4234.0, 4262.0]",3.0,['EntRel:nan'],['EntRel:nan'],['NoRel:nan']
+nearwin.S61.Q3,nearwin,4354,Did he want his diaries published?,"[4319, 4352]",He wanted them destroyed,"[4393.0, 4414.0]",5.0,[],[],"['NoRel:nan', 'AltLex:Contingency.Cause.Result']"
+nearwin.S67.Q3,nearwin,4524,Did Kafka plan to have anything he wrote published?,"[4481, 4522]",,,1.0,[],[],[]
+nearwin.S135.Q2,nearwin,9292,Does this cause you to change what you want to achieve?,"[9190, 9233]",Our achievements always leave us wanting more.,"[9452.0, 9496.0]",3.0,['EntRel:nan'],['EntRel:nan'],['NoRel:nan']
+nearwin.S137.Q2,nearwin,9498,How do we become complete people?,"[9477, 9496]",We keep striving for it but hopefully it never ends.,"[9520.0, 9551.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Comparison.Concession.Arg2-as-denier']"
+nearwin.S133.Q3,nearwin,9158,What does their former self look like?,"[9120, 9156]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S135.Q3,nearwin,9292,What are they trying to master?,"[9158, 9188]",They are trying to master completion,"[9498.0, 9518.0]",3.0,['EntRel:nan'],[],['EntRel:nan']
+nearwin.S137.Q3,nearwin,9498,Who is Elizabeth Murray?,"[9320, 9336]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S1.Q9,nearwin,177,What style does Murray feature?,"[151, 175]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S5.Q9,nearwin,344,What other decades did she paint in?,"[328, 342]",,,1.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],[]
+nearwin.S126.Q2,nearwin,9040,A voracious what?,"[9027, 9038]",Unfinished path,"[9040.0, 9081.0]",5.0,[],[],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S53.Q5,nearwin,3497,Mastery of what?,"[3432, 3439]",Mastery of artwork.,"[3844.0, 3853.0]",3.0,['EntRel:nan'],['EntRel:nan'],"['NoRel:nan', 'Explicit:Expansion.Level-of-detail.Arg2-as-detail']"
+nearwin.S55.Q5,nearwin,3712,How can something be mastered if the creator doesn't consider it such?,"[3676, 3710]",It's a near win regardless.,"[3765.0, 3776.0]",3.0,[],[],"['Implicit:Expansion.Instantiation', 'Explicit:Temporal.Synchronous']"
+nearwin.S57.Q5,nearwin,3855,How is something riddled with difficulties and flaws a near win?,"[3712, 3747]",,,1.0,['Implicit:Comparison.Similarity'],[],[]
+nearwin.S59.Q5,nearwin,4109,How can a master think most of his works are incomplete?,"[3885, 3918]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S61.Q4,nearwin,4354,Why did Kafka see incompletion everywhere?,"[4234, 4262]",,,1.0,[],[],[]
+nearwin.S126.Q3,nearwin,9040,What is the coach giving himself over to?,"[8997, 9038]",A path or task that never ends.,"[9040.0, 9081.0]",5.0,[],[],"['EntRel:nan', 'Explicit:Expansion.Substitution.Arg2-as-subst', 'Implicit:Contingency.Purpose.Arg2-as-goal']"
+nearwin.S67.Q4,nearwin,4524,Is being a master equivalent to being an extreme perfectionist?,"[4354, 4414]",It's about never being satisfied with your work.,"[4657.0, 4678.0]",3.0,[],[],['NoRel:nan']
+nearwin.S46.Q5,nearwin,3314,/What is a ten ring?,"[3171, 3179]",,,1.0,['Implicit:Comparison.Similarity'],[],[]
+nearwin.S7.Q9,nearwin,485,What did she think of those early works?,"[435, 484]",she's not impressed!,"[582.0, 612.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S9.Q9,nearwin,645,How is her painting different now than in the 70s?,"[520, 557]",,,1.0,['Explicit:Expansion.Instantiation'],[],[]
+nearwin.S11.Q9,nearwin,801,Did the neighbor sell the painting she took out of the trash?,"[752, 773]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S13.Q9,nearwin,958,Does Murray think she's mastered painting?,"[919, 956]",,,1.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],[]
+nearwin.S19.Q9,nearwin,1070,What other questions do you ask yourself?,"[1035, 1068]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S116.Q2,nearwin,8146,Can you give an example of such a myth?,"[8088, 8144]",,,1.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],[]
+nearwin.S49.Q4,nearwin,3432,What is success?,"[3335, 3342]",A near win is success,"[3765.0, 3776.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],"['Implicit:Expansion.Instantiation', 'Explicit:Temporal.Synchronous']"
+nearwin.S54.Q4,nearwin,3583,Why should we value the near win?,"[3563, 3581]",We as humans see our work flawed but that can be a near win,"[3765.0, 3776.0]",5.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],"['Implicit:Expansion.Instantiation', 'Explicit:Temporal.Synchronous']"
+nearwin.S56.Q4,nearwin,3777,Is near win a success?,"[3765, 3776]",protagonist was him,"[4197.0, 4232.0]",4.0,['NoRel:nan'],['NoRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction']"
+nearwin.S104.Q2,nearwin,7399,How can we fight back against these gambling abuses?,"[7275, 7303]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S106.Q2,nearwin,7601,Did Jackie Joyner-Kersee win in the follow-up competition?,"[7564, 7599]","Yes, she won in 1988.","[7601.0, 7626.0]",5.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence']
+nearwin.S108.Q2,nearwin,7806,"So near misses are good for us, in life?","[7733, 7769]",We thrive when we stay just short of the goal.,"[8030.0, 8073.0]",4.0,['NoRel:nan'],['NoRel:nan'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S112.Q2,nearwin,7963,How could you manufacture a near miss?,"[7856, 7901]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S97.Q2,nearwin,7048,What other abuses are there in the gambling industry?,"[6798, 6829]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S102.Q2,nearwin,7271,Is this from a TED talk?,"[7186, 7213]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S60.Q4,nearwin,4234,Can we measure our success ourselves?,"[4185, 4232]",No we can't we see our work as flawed,"[4240.0, 4262.0]",4.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S64.Q4,nearwin,4416,Were any of his works burned?,"[4393, 4414]",His friend didn't burn his works,"[4416.0, 4455.0]",5.0,['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier'],['Implicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S68.Q4,nearwin,4614,Aren't somethings good even incomplete?,"[4575, 4585]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S116.Q3,nearwin,8146,Can you give examples?,"[8117, 8144]",A deliberate flaw in a pattern in Navajo crafts.,"[8149.0, 8163.0]",4.0,['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation'],['Implicit:Expansion.Instantiation']
+nearwin.S104.Q3,nearwin,7399,How does that work?,"[7275, 7303]","It makes us more determined, and tenacious.","[7536.0, 7574.0]",4.0,['EntRel:nan'],[],"['EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']"
+nearwin.S58.Q4,nearwin,4013,Are we to critical of our own work to judge it?,"[3893, 3918]",He didn't feel good about his own paintings,"[4061.0, 4107.0]",5.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S97.Q3,nearwin,7048,"What happened as a result, if they were seen as abuses?","[6793, 6829]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S68.Q5,nearwin,4614,Are there others who requested their works burned at death?,"[4444, 4455]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S112.Q3,nearwin,7963,Do you have some examples of how we might apply that?,"[7890, 7912]",Creation myths have a deliberate near win built in.,"[8092.0, 8144.0]",3.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S49.Q5,nearwin,3432,What label?,"[3391, 3398]",,,1.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],[]
+nearwin.S54.Q5,nearwin,3583,How do you get motivated for that constant pursuit?,"[3479, 3495]",,,1.0,['Implicit:Expansion.Instantiation'],[],[]
+nearwin.S126.Q4,nearwin,9040,Have they ever won?,"[8858, 8867]",,,1.0,[],[],[]
+nearwin.S133.Q4,nearwin,9158,Do they have any ideas they haven't tried?,"[9061, 9081]",,,1.0,['Implicit:Contingency.Cause.Reason'],[],[]
+nearwin.S135.Q4,nearwin,9292,What are they trying to master?,"[9181, 9188]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S137.Q4,nearwin,9498,Who is Elizabeth Murray?,"[9320, 9336]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S126.Q5,nearwin,9040,Why can't the coaches keep up?,"[8703, 8747]",,,1.0,[],[],[]
+nearwin.S106.Q3,nearwin,7601,How can we use this constructively?,"[7536, 7574]","We do better with a reasonable, achievable challenge than with total success.","[7733.0, 7742.0]",4.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['NoRel:nan']
+nearwin.S108.Q3,nearwin,7806,Is there anything more we can do to make this work for us?,"[7775, 7804]",Set ourselves up to perceive near wins in our lives.,"[7890.0, 7912.0]",4.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S65.Q6,nearwin,4614,Why didn't his friend honor Kafka's request?,"[4416, 4455]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S70.Q6,nearwin,4814,How can we master accomplishment?,"[4614, 4636]",You don't master it.,"[4912.0, 4956.0]",5.0,['Explicit:Expansion.Conjunction'],[],"['NoRel:nan', 'AltLex:Expansion.Substitution.Arg1-as-subst']"
+nearwin.S56.Q5,nearwin,3777,What's an example of this?,"[3583, 3597]",Murray and Cezanne are both examples.,"[3868.0, 3875.0]",5.0,['NoRel:nan'],['NoRel:nan'],['Implicit:Comparison.Similarity']
+nearwin.S58.Q5,nearwin,4013,How many of Cezanne's final painting did he think were incomplete?,"[3946, 3962]",He only signed 10% of his paintings as complete.,"[4080.0, 4090.0]",5.0,['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier'],['Explicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S60.Q5,nearwin,4234,What other works did he enjoy?,"[4109, 4127]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S64.Q5,nearwin,4416,Why wasn't Kafka satisfied?,"[4246, 4262]",,,2.0,['Implicit:Comparison.Concession.Arg2-as-denier'],[],[]
+nearwin.S102.Q3,nearwin,7271,How so?,"[7237, 7269]",It causes us to focus on a plan.,"[7305.0, 7324.0]",3.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S62.Q5,nearwin,4524,When was this novel written?,"[4113, 4159]",,,1.0,[],[],[]
+nearwin.S73.Q5,nearwin,5051,What would be an example of this?,"[4912, 4938]",Ben Saunders is an example of mastery.,"[5273.0, 5285.0]",3.0,['Implicit:Expansion.Conjunction'],[],['EntRel:nan']
+nearwin.S75.Q5,nearwin,5211,What would be an example of this?,"[5051, 5094]",,,2.0,['EntRel:nan'],[],[]
+nearwin.S77.Q5,nearwin,5417,Where was Ben Saunders from?,"[5257, 5285]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S83.Q4,nearwin,5588,Where was Duke Ellington from?,"[5493, 5507]",,,1.0,[],[],[]
+nearwin.S61.Q5,nearwin,4354,What did he want with all the diaries?,"[4324, 4352]",He wanted them burned,"[4393.0, 4414.0]",5.0,[],[],"['NoRel:nan', 'AltLex:Contingency.Cause.Result']"
+nearwin.S67.Q5,nearwin,4524,Would kafka have been happy with his friends decision?,"[4490, 4522]",,,1.0,[],[],[]
+nearwin.S17.Q5,nearwin,1134,What turns success into mastery?,"[997, 1026]",,,2.0,['EntRel:nan'],[],[]
+nearwin.S22.Q5,nearwin,1335,What does being a woman have to do with archery?,"[1230, 1239]",,,2.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S24.Q5,nearwin,1608,Does archer's paradox work?,"[1383, 1391]",,,1.0,['EntRel:nan'],[],[]
+nearwin.S26.Q5,nearwin,1848,How do archers communicate with numbers?,"[1795, 1814]",Numbers and degrees for how to hit their target,"[1905.0, 1921.0]",5.0,[],[],"['Explicit:Expansion.Conjunction', 'Explicit:Temporal.Synchronous', 'Explicit:Expansion.Substitution.Arg2-as-subst']"
+nearwin.S28.Q5,nearwin,2039,Why would an archer require support?,"[2002, 2020]",,,2.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S69.Q5,nearwin,4680,When were these works written?,"[4524, 4563]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S71.Q5,nearwin,4912,Who was Michelangelo?,"[4736, 4758]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S36.Q5,nearwin,2408,How are points calculated?,"[2295, 2306]",,,1.0,"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']",[],[]
+nearwin.S84.Q6,nearwin,5626,How do we know there will be a next one?,"[5567, 5586]",,,1.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S102.Q4,nearwin,7271,Describe TED,"[7234, 7269]",mountain is on our side,"[7375.0, 7397.0]",4.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S104.Q4,nearwin,7399,what does a near win do?,"[7370, 7397]",gets us to focus,"[7564.0, 7599.0]",4.0,['EntRel:nan'],['EntRel:nan'],"['EntRel:nan', 'Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause+Belief.Result+Belief']"
+nearwin.S106.Q4,nearwin,7601,who needed to fol low up in the competition,"[7542, 7567]",Jackie,"[7736.0, 7770.0]",4.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],['NoRel:nan']
+nearwin.S108.Q4,nearwin,7806,when do we strive?,"[7775, 7804]",,,2.0,['NoRel:nan'],['NoRel:nan'],[]
+nearwin.S112.Q4,nearwin,7963,what were you wondering,"[7927, 7961]",how to manufacture a near win in the room,"[8092.0, 8144.0]",4.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S97.Q4,nearwin,7048,why does the near win have propultion?,"[6910, 6943]",because it canges our view of landscape and puts our goals,"[7142.0, 7155.0]",4.0,['NoRel:nan'],['NoRel:nan'],['NoRel:nan']
+nearwin.S72.Q6,nearwin,4958,Why can we never arrive at mastery?,"[4912, 4956]","Mastery is about trying to accomplish something beyond you, so there will always be a gap.","[4966.0, 5002.0]",4.0,['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction'],['Implicit:Expansion.Conjunction']
+nearwin.S74.Q6,nearwin,5141,How do you sacrifice your craft?,"[5051, 5094]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S76.Q6,nearwin,5368,What are some of Ben Saunders' triumphs?,"[5305, 5317]",,,1.0,['Explicit:Comparison.Contrast'],['Explicit:Comparison.Contrast'],[]
+nearwin.S80.Q6,nearwin,5465,How do we stay at the leading edge?,"[5432, 5463]",Always look ahead to your next piece that is not yet created.,"[5588.0, 5624.0]",3.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S133.Q5,nearwin,9158,What would the former self be?,"[9141, 9156]",Improving oneself for the future.,"[9190.0, 9233.0]",4.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S135.Q5,nearwin,9292,What is being achieved?,"[9247, 9290]",A general term for completing.,"[9498.0, 9518.0]",4.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S137.Q5,nearwin,9498,What is incomplete?,"[9462, 9497]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S32.Q5,nearwin,2220,How does an archer hit such a small target?,"[2168, 2193]",She had more tenacity after missing,"[2423.0, 2445.0]",3.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],"['Explicit:Expansion.Conjunction', 'Implicit:Contingency.Cause.Result']"
+nearwin.S48.Q4,nearwin,3262,Did she win the competition?,"[3218, 3260]",Mastery is not the same as success,"[3262.0, 3304.0]",4.0,['Explicit:Expansion.Level-of-detail.Arg2-as-detail'],['Explicit:Expansion.Level-of-detail.Arg2-as-detail'],['Explicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S52.Q4,nearwin,3432,Was she a master?,"[3262, 3304]",,,1.0,['Implicit:Expansion.Conjunction'],[],[]
+nearwin.S134.Q5,nearwin,9190,what is the idea?,"[9099, 9118]","it's vague, but coming close to what you thought you wanted","[9190.0, 9233.0]",3.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],['Implicit:Expansion.Level-of-detail.Arg2-as-detail']
+nearwin.S136.Q5,nearwin,9424,what are you trying to obtain?,"[9238, 9258]",a utopia?,"[9443.0, 9450.0]",3.0,['NoRel:nan'],[],"['NoRel:nan', 'AltLex:Contingency.Condition.Arg2-as-cond']"
+nearwin.S138.Q5,nearwin,9553,what is incomplete?,"[9471, 9496]",,,2.0,['NoRel:nan'],[],[]
+nearwin.S129.Q4,nearwin,9083,what kind of team is this?,"[8737, 8747]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S40.Q4,nearwin,2683,What happened next?,"[2581, 2624]",what doggedness looks like...this level of exactitude,"[2827.0, 2864.0]",4.0,[],[],['NoRel:nan']
+nearwin.S42.Q4,nearwin,2896,Did she continue in the same fashion?,"[2739, 2771]",author stayed to watch more,"[3023.0, 3035.0]",3.0,[],[],['Explicit:Comparison.Concession.Arg2-as-denier']
+nearwin.S44.Q4,nearwin,3036,What happened next?,"[3023, 3035]",,,1.0,['Explicit:Contingency.Cause.Reason'],['Explicit:Contingency.Cause.Reason'],[]
+nearwin.S116.Q4,nearwin,8146,why do they deliberate ,"[8045, 8073]",,,2.0,['Implicit:Expansion.Instantiation'],[],[]
+nearwin.S129.Q5,nearwin,9083,What more would they like to be doing?,"[8703, 8747]",,,1.0,['NoRel:nan'],[],[]
+nearwin.S110.Q5,nearwin,8014,What would be a near win?,"[7902, 7912]",,,1.0,['Implicit:Expansion.Level-of-detail.Arg2-as-detail'],[],[]
+nearwin.S117.Q5,nearwin,8255,What type of imperfections?,"[8209, 8228]",A deliberate flaw.,"[8289.0, 8306.0]",5.0,['EntRel:nan'],['EntRel:nan'],['EntRel:nan']
+nearwin.S119.Q5,nearwin,8404,What does it mean for the worker to have a way out?,"[8344, 8359]",To keep working.,"[8479.0, 8507.0]",3.0,['Implicit:Contingency.Cause.Reason'],['Implicit:Contingency.Cause.Reason'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S121.Q5,nearwin,8479,Why are masters experts?,"[8404, 8427]",They realize there isn't a conceptual end.,"[8508.0, 8536.0]",5.0,['Implicit:Expansion.Substitution.Arg2-as-subst'],['Implicit:Expansion.Substitution.Arg2-as-subst'],"['Implicit:Expansion.Substitution.Arg2-as-subst', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S123.Q5,nearwin,8538,Why isn't their a conceptual end?,"[8487, 8507]",,,1.0,['EntRel:nan'],['EntRel:nan'],[]
+nearwin.S83.Q5,nearwin,5588,Does this lead to a loss of satisfaction?,"[5563, 5586]",You can't know your potential without pushing yourself; that itself is satisfying.,"[5729.0, 5750.0]",3.0,[],[],"['NoRel:nan', 'Explicit:Contingency.Cause.Reason']"
+nearwin.S14.Q5,nearwin,1070,What is the answer to converting success into mastery?,"[981, 1026]","Valuing the ""near win""","[1104.0, 1132.0]",3.0,['Implicit:Expansion.Conjunction'],[],['Implicit:Expansion.Conjunction']
+nearwin.S21.Q5,nearwin,1263,How did the archers help understanding?,"[1198, 1228]","Examining the ""archer's paradox""","[1337.0, 1381.0]",3.0,[],[],['EntRel:nan']
+nearwin.S23.Q5,nearwin,1487,How does the archer's paradox relate to mastery?,"[1337, 1381]",,,1.0,['Implicit:Contingency.Cause.Result'],['Implicit:Contingency.Cause.Result'],[]
+nearwin.S25.Q5,nearwin,1703,How is the ice cream important here?,"[1608, 1644]",,,1.0,['Explicit:Expansion.Conjunction'],['Explicit:Expansion.Conjunction'],[]
+nearwin.S27.Q5,nearwin,1923,How does this relate to mastery?,"[1868, 1921]",,,1.0,['Implicit:Temporal.Asynchronous.Precedence'],['Implicit:Temporal.Asynchronous.Precedence'],[]
